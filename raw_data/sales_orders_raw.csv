@@ -1,0 +1,667 @@
+Order_ID,Order_Date,SKU,Product_Name,Customer_Region,Warehouse_ID,Quantity_Sold,Unit_Price,Unit_Cost,Order_Status
+SO-500542,2025-05-14 00:00:00,SKU-1019,Strapping Band PP,West Java,WH-SBY,212,74.14,50.93,Delivered
+SO-500595,2025-09-25 00:00:00,SKU-1024,Bluetooth Speaker Mini,Sulawesi,WH-MDN,248,273.05,168.61,Delivered
+SO-500262,2025-09-13 00:00:00,SKU-1011,Corrugated Box Large,Sumatra,WH-MKS,292,92.93,68.03,Delivered
+SO-500291,2025-08-28 00:00:00,SKU-1032,Circuit Board Rev C,East Java,WH-MDN,259,348.1,202.29,Delivered
+SO-500135,2025-06-01 00:00:00,SKU-1030,Ball Bearing 6205,Bali & Nusa Tenggara,WH-SMG,63,145.89,,Delivered
+SO-500153,2025-01-02 00:00:00,SKU-1038,RUBBER GASKET SET,Bali & Nusa Tenggara,,79,28.95,21.41,Returned
+SO-500283,2025-07-27 00:00:00,SKU-1043,Cutting Tool Insert,Sumatra,WH-SMG,42,49.63,34.42,Delivered
+SO-500057,2025-09-07 00:00:00,SKU-1011,Corrugated Box Large,East Java,WH-SBY,137,92.93,68.03,Delivered 
+SO-500562,2025-10-05 00:00:00,SKU-1031,Hydraulic Pump Seal,Central Java,WH-SMG,256,49.09,36.34,Delivered
+SO-500483,2025-08-08 00:00:00,SKU-1000,Steel Coil 2mm,Kalimantan,WH-SBY,72,10.82,7.72,Delivered
+SO-500404,2025-07-23 00:00:00,SKU-1045,Welding Rod E6013,East Java,WH-JKT,88,260.41,167.46,Delivered
+SO-500312,03.30.2025,SKU-1020,Cordless Drill 18V,Sulawesi,,180,Rp 372.99,245.59,Delivered
+SO-500327,2025-03-31 00:00:00,SKU-1002,PVC Resin,Bali & Nusa Tenggara,WH-MDN,95,81.83,50.91,Delivered
+SO-500372,2025-06-19 00:00:00,SKU-1013,Pallet Wood Standard,Sumatra,WH-JKT,194,224.95,135.44,Delivered
+SO-500428,2025-04-03 00:00:00,SKU-1034,Motor Bracket Assembly,West Java,WH-MKS,241,377.86,216.37,Cancelled
+SO-500560,2025-06-12 00:00:00,SKU-1037,LED Driver 12V,Sulawesi,WH-SMG,19,24.69,,Delivered
+SO-500394,2025-09-26 00:00:00,SKU-1006,Stainless Steel Rod,Central Java,,103,Rp 63.49,49.28,Delivered
+SO-500202,2025-07-08 00:00:00,SKU-1003,Cotton Yarn,West Java,WH-SMG,51,254.26,190.06,Delivered
+SO-500578,2025-07-31 00:00:00,SKU-1010,Corrugated Box Medium,Sumatra,WH-MDN,184,294.1,171.63,Delivered
+SO-500623,2025-04-20 00:00:00,SKU-1036,Pressure Valve 1/2in,Kalimantan,WH-SBY,120,56.49,39.97,Delivered
+SO-500580,,SKU-1004,Copper Wire Roll,West Java,WH-SMG,168,39.25,26.9,Delivered
+SO-500126,2025-10-20 00:00:00,SKU-1024,Bluetooth Speaker Mini,Sulawesi,WH-SMG,156,273.05,168.61,Returned
+SO-500071,2025-09-03 00:00:00,SKU-1030,Ball Bearing 6205,East Java,WH-MDN,,145.89,101.55,Cancelled
+SO-500402,2025-05-24 00:00:00,SKU-1043,Cutting Tool Insert,Sulawesi,WH-MKS,21,49.63,34.42,Delivered
+SO-500142,2025-01-20 00:00:00,SKU-1002,PVC Resin,Sumatra,WH-SMG,64,81.83,50.91,Delivered
+SO-500479,2025-07-23 00:00:00,SKU-1034,Motor Bracket Assembly,Sumatra,WH-SBY,113,377.86,,Delivered
+SO-500169,2025-10-15 00:00:00,SKU-1035,Gear Set Helical,Kalimantan,WH-SMG,67,389.75,231.74,Delivered
+SO-500399,2025-09-13 00:00:00,SKU-1005,Polyethylene Pellets,Kalimantan,WH-MDN,174,282.47,182.84,Delivered
+SO-500611,2025-12-23 00:00:00,SKU-1031,Hydraulic Pump Seal,Bali & Nusa Tenggara,WH-JKT,121,49.09,36.34,Delivered
+SO-500459,2025-01-28 00:00:00,SKU-1039,Timing Belt 120T,West Java,,253,54.43,31.29,Delivered
+SO-500449,2025-04-20 00:00:00,SKU-1045,Welding Rod E6013,East Java,WH-SBY,37,260.41,167.46,Delivered
+SO-500019,2025-05-06 00:00:00,SKU-1002,PVC Resin,Sulawesi,WH-MDN,42,81.83,50.91,Delivered
+SO-500309,2025-06-10 00:00:00,Sku-1028,wireless mouse,Central Java,WH-MDN,216,331.23,196.98,Delivered
+SO-500168,2025-07-10 00:00:00,SKU-1006,Stainless Steel Rod,Sulawesi,WH-SBY,35,63.49,49.28,Delivered
+SO-500077,2025-11-09 00:00:00,SKU-1003,Cotton Yarn,Bali & Nusa Tenggara,WH-JKT,111,254.26,190.06,Delivered
+SO-500343,2025-11-02 00:00:00,SKU-1043,Cutting Tool Insert,Sulawesi,,Rp 233,49.63,34.42,Delivered
+SO-500553,10-Jan-25,SKU-1034,Motor Bracket Assembly,Bali & Nusa Tenggara,WH-MDN,188,377.86,216.37,Delivered
+SO-500200,2025-11-20 00:00:00,SKU-1028,Wireless Mouse,Bali & Nusa Tenggara,WH-SMG,145,331.23,196.98,Delivered
+SO-500550,2025-03-18 00:00:00,SKU-1028,Wireless Mouse,Sulawesi,WH-JKT,130,331.23,,Delivered
+SO-500490,2025-02-22 00:00:00,SKU-1005,Polyethylene Pellets,East Java,WH-JKT,193,282.47,182.84,Delivered
+SO-500217,,SKU-1049,Cleaning Solvent Industrial,Central Java,WH-SBY,75,62.18,41.65,Delivered
+SO-500473,2025-12-02 00:00:00,SKU-1017,Foam Insert Sheet,Kalimantan,WH-SBY,72,99.51,74.43,Delivered
+SO-500464,2025-10-21,SKU-1007,Rubber Compound,East Java,WH-JKT,283,316.36,216.82,Delivered
+SO-500634,2025-01-14 00:00:00, SKU-1046,Machine Coolant 5L,east java,WH-MDN,137,39.50 ,,Delivered
+SO-500006,2025-01-20 00:00:00,SKU-1016,Poly Mailer Bag,Sulawesi,WH-JKT,227,223.93,170.55,Delivered
+SO-500412,2025-03-20 00:00:00,SKU-1040,Industrial Lubricant 20L,East Java,,189,257.33,164.86,Delivered
+SO-500401,2025-10-18 00:00:00,sku-1044,Hydraulic Oil ISO 46,East Java,WH-MDN,28,170.97,110.39,Delivered
+SO-500543,2025-10-09 00:00:00,SKU-1035,Gear Set Helical,West Java,WH-SBY,241,389.75,231.74,Delivered
+SO-500540,2025-11-05 00:00:00,SKU-1044,Hydraulic Oil ISO 46,Central Java,WH-JKT,172,170.97,110.39,Delivered
+SO-500356,2025-04-25 00:00:00,SKU-1046,  Machine Coolant 5L  ,Bali & Nusa Tenggara,WH-JKT,16,39.5,30.18,Returned
+SO-500336,2025-01-04 00:00:00,SKU-1015,Carton Tape 48mm,Sumatra,WH-SMG,125 ,218.82,149.71,Deliverd
+SO-500323,08.30.2025,SKU-1045,Welding Rod E6013,Kalimantan,WH-JKT,75,260.41,167.46,Delivered
+SO-500564,2025-06-19 00:00:00,SKU-1000,Steel Coil 2mm,Central Java,WH-MKS,71,10.82,7.72,DELIVERED
+SO-500635,07.18.2025,SKU-1025,Ceiling Fan 56in,Sulawesi,WH-JKT,297,141.94,110.44,Delivered
+SO-500585,2025-10-04 00:00:00,SKU-1046,Machine Coolant 5L,Kalimantan,WH-SMG,149,39.5,30.18,Delivered
+SO-500532,2025-02-13 00:00:00,SKU-1047,Conveyor Belt Roller,West Java,WH-MKS,263,Rp 83.28,52.09,Delivered
+SO-500636,2025-04-24 00:00:00,SKU-1021,Office Chair Ergonomic,Kalimantan,WH-MKS,248,64.64,37.3,Delivered
+SO-500366,2025-03-31 00:00:00,SKU-1037,LED Driver 12V,Sulawesi,WH-MDN,258,24.69,15.71,Delivered
+SO-500081,2025-08-21 00:00:00,SKU-1044,Hydraulic Oil ISO 46,Kalimantan,WH-JKT,124,170.97,110.39,Delivered
+SO-500110,2025-07-17 00:00:00,SKU-1024,Bluetooth Speaker Mini,Sumatra,WH-SBY,23,273.05,168.61,Delivered
+SO-500166,2025-12-07 00:00:00,SKU-1020,Cordless Drill 18V,East Java,WH-SMG,83,372.99,245.59,Delivered
+SO-500170,2025-08-05 00:00:00,SKU-1042,Air Filter Cartridge,East Java,WH-JKT,164,207.59,115.38,Delivered
+SO-500639,2025-10-14 00:00:00,SKU-1016,Poly Mailer Bag,Kalimantan,WH-SBY,176,Rp 223.93,170.55,Delivered
+SO-500070,2025-09-09 00:00:00,SKU-1048,Spare Fuse 10A,Bali & Nusa Tenggara,WH-JKT,11,271.48,,Delivered
+SO-500008,2025-04-08 00:00:00,SKU-1036,Pressure Valve 1/2in,west java,WH-SMG,228,56.49,39.97,DELIVERED
+SO-500406,2025-12-19 00:00:00,SKU-1008,Silicone Sealant Bulk,Sulawesi,WH-JKT,182,145.32,89.78,DELIVERED
+SO-500425,2025-04-13 00:00:00,SKU-1044,Hydraulic Oil ISO 46,East Java,,95,170.97,110.39,Cancelled
+SO-500378,2025-11-29 00:00:00,SKU-1034,Motor Bracket Assembly,East Java,WH-SMG,138,377.86,216.37,Delivered
+SO-500363,2025-04-30 00:00:00,SKU-1018,Label Roll Thermal,East Java,WH-MKS,300,291.85,190.85,Delivered
+SO-500185,2025-03-12 00:00:00,SKU-1013,Pallet Wood Standard,East Java,WH-SMG,172,224.95,135.44,Delivered
+SO-500024,2025-11-01 00:00:00,SKU1035,Gear Set Helical,Bali & Nusa Tenggara,,231,389.75,231.74,Delivered
+SO-500487,,SKU-1000,Steel Coil 2mm,West Java,WH-MDN,72,10.82,7.72,Delivered
+SO-500276,05.09.2025,SKU-1005,Polyethylene Pellets,Kalimantan,WH-SBY,-287,282.47,182.84,Delivered
+SO-500326,2025-11-30 00:00:00,SKU-1005,Polyethylene Pellets,Central Java,WH-MKS,278,282.47,,Delivered
+SO-500324,2025-03-22 00:00:00,SKU-1035,Gear Set Helical,Kalimantan,WH-MDN,248,389.75,231.74,Delivered
+SO-500359,2025-02-27 00:00:00,SKU-1046,Machine Coolant 5L,Bali & Nusa Tenggara,WH-JKT,219,39.5,30.18,Delivered
+SO-500500,2025-02-06 00:00:00,SKU-1038,Rubber Gasket Set,West Java,WH-MKS,189,28.95,21.41,Delivered 
+SO-500086,2025-09-14 00:00:00,SKU-1017,Foam Insert Sheet,Sumatra,WH-MKS,229,99.51,74.43,Delivered
+SO-500179,2025-11-02 00:00:00,SKU-1036,Pressure Valve 1/2in,West Java,WH-JKT,84,$56.49,39.97,Delivered
+SO-500398,2025-09-01 00:00:00,SKU-1035,GEAR SET HELICAL,Kalimantan,WH-JKT,9,389.75,231.74,Delivered
+SO-500188,2025-01-22 00:00:00,SKU-1047,Conveyor Belt Roller,West Java,WH-MDN,240,83.28,52.09,Delivered
+SO-500305,2025-06-07 00:00:00,SKU-1037,LED Driver 12V,Sulawesi,WH-JKT,247,24.69,15.71,Delivered
+SO-500225,2025-04-13 00:00:00,SKU-1010,Corrugated Box Medium,Central Java,WH-MKS,133,294.1,171.63,Delivered 
+SO-500263,2025-05-14 00:00:00,SKU-1049,Cleaning Solvent Industrial,Central Java,WH-MDN,151,62.18,41.65,Delivered
+SO-500014,2025-01-01 00:00:00,SKU-1035,Gear Set Helical,East Java,WH-SMG,112,389.75,231.74,Delivered
+SO-500062,2025-12-06 00:00:00,SKU-1019,Strapping Band PP,East Java,WH-MKS,247,74.14,50.93,Delivered
+SO-500392,2025-05-21 00:00:00,SKU-1033,Lithium Battery Cell 18650,EAST JAVA,WH-MKS,13,426.33,242.3,Delivered
+SO-500441,2025-03-01 00:00:00,SKU-1005,Polyethylene Pellets,East Java,WH-SBY,164,282.47,182.84,Delivered
+SO-500120,2025-04-03 00:00:00,SKU-1043,Cutting Tool Insert,central java,WH-SBY,45,49.63,34.42,Delivered
+SO-500569,2025-11-29 00:00:00, SKU-1031,Hydraulic Pump Seal,Central Java,,292,49.09,36.34,Delivered
+SO-500040,2025-07-14 00:00:00,SKU-1048,Spare Fuse 10A,Bali & Nusa Tenggara,WH-SMG,220,271.48,159.12,Delivered
+SO-500627,2025-11-26 00:00:00, SKU-1045,Welding Rod E6013,Sumatra,WH-SMG,197,260.41,167.46,Delivered
+SO-500119,2025-08-09 00:00:00,SKU-1023,Stainless Steel Bottle 1L,Central Java,WH-SBY,276,243.11,177.91,Delivered
+SO-500566,2025-02-26 00:00:00,SKU-1009,Timber Plank Oak,bali & nusa tenggara,WH-MKS,191,244.78,182.69,Canceled
+SO-500058,2025-12-26 00:00:00,SKU-1038,Rubber Gasket Set,Sulawesi,WH-SMG,10,28.95,21.41,Delivered
+SO-500602,2025-06-16 00:00:00,SKU-1035,Gear Set Helical,Sulawesi,WH-SMG,239,389.75,231.74,Delivered
+SO-500557,2025-10-27 00:00:00,SKU-1049,Cleaning Solvent Industrial,Central Java,WH-SBY,56,62.18,41.65,Delivered
+SO-500261,2025-06-10 00:00:00,SKU-1025,Ceiling Fan 56in,Central Java,,63,141.94,110.44,Delivered
+SO-500187,2025-09-14 00:00:00,SKU-1014,Bubble Wrap Roll,Bali & Nusa Tenggara,WH-MKS,186,166.56,128.12,Delivered
+SO-500114,2025-12-12 00:00:00,SKU-1021,Office Chair Ergonomic,Sumatra,WH-MKS,167,64.64,37.3,Delivered
+SO-500280,2025-02-11 00:00:00,SKU-1001,Aluminum Sheet 3mm,Kalimantan,WH-JKT,300,187.89,148.24,Delivered
+SO-500597,2025-01-18 00:00:00,SKU-1045,Welding Rod E6013,Sulawesi,WH-MKS,269,260.41,167.46,Delivered
+SO-500089,2025-05-18 00:00:00,SKU-1043,Cutting Tool Insert,West Java,WH-MKS,94,49.63,34.42,Delivered
+SO-500312,03.30.2025,SKU-1020,Cordless Drill 18V,Sulawesi,,180,Rp 372.99,245.59,Delivered
+SO-500027,2025-09-24 00:00:00,SKU-1017,Foam Insert Sheet,Kalimantan,WH-MDN,127,99.51,74.43,Delivered
+SO-500260,2025-08-16 00:00:00,SKU-1023,Stainless Steel Bottle 1L,Sulawesi,WH-JKT,75,243.11,177.91,Delivered
+SO-500167,2025-02-04 00:00:00,SKU-1030,Ball Bearing 6205,Bali & Nusa Tenggara,WH-JKT,48,145.89,101.55,Delivered
+SO-500075,2025-11-02 00:00:00,SKU-1038,Rubber Gasket Set,Central Java,,272,28.95,21.41,Delivered
+SO-500183,2025-10-31 00:00:00,SKU-1043,Cutting Tool Insert,Sulawesi,WH-MDN,162,49.63,34.42,Delivered
+SO-500646,2025-06-20 00:00:00,SKU-1031,Hydraulic Pump Seal,East Java,WH-SBY,34,49.09,36.34,Delivered
+SO-500198,2025-10-24 00:00:00,SKU-1036,Pressure Valve 1/2in,Kalimantan,WH-MDN,,56.49,39.97,Delivered
+SO-500427,2025-07-21 00:00:00,SKU-1017,Foam Insert Sheet,West Java,WH-SMG,293,99.51,74.43,Delivered
+SO-500112,2025-01-08 00:00:00,SKU-1029,Standing Desk Converter,Sumatra,WH-SBY,84,268.34,178.08,Delivered
+SO-500495,2025-06-29 00:00:00,SKU-1024,Bluetooth Speaker Mini,East Java,WH-MDN,76,273.05,,Delivered
+SO-500253,2025-02-22 00:00:00,SKU-1020,Cordless Drill 18V,East Java,WH-JKT,156,372.99,245.59,DELIVERED
+SO-500034,2025-10-03 00:00:00,SKU-1026,Electric Kettle 1.7L,Bali & Nusa Tenggara,WH-MKS,117,67.61,42.33,Delivered
+SO-500325,2025-05-28 00:00:00,SKU-1012,Shrink Wrap Film,East Java,,35,Rp 174.97,99.81,Delivered
+SO-500206,2025-02-22 00:00:00,SKU-1028,Wireless Mouse,Kalimantan,WH-SMG,48,331.23,,Delivered
+SO-500600,2025-08-11 00:00:00,SKU-1043,Cutting Tool Insert,Bali & Nusa Tenggara,WH-SBY,-80,49.63,34.42,Delivered
+SO-500471,,SKU-1034,Motor Bracket Assembly,Kalimantan,WH-SMG,154,377.86,216.37,Delivered
+SO-500271,2025-07-29 00:00:00,SKU-1049,Cleaning Solvent Industrial,West Java,WH-MKS,69,62.18,41.65,Cancelled
+SO-500615,2025-02-03 00:00:00,SKU1010,Corrugated Box Medium,Kalimantan,WH-SMG,,294.1,171.63,Delivered
+SO-500579,2025-09-03 00:00:00,SKU-1006,Stainless Steel Rod,Kalimantan,WH-MKS,$120,63.49,49.28,Delivered
+SO-500328,2025-07-23 00:00:00,SKU-1002,PVC Resin,Central Java,WH-MDN,153,81.83,50.91,Delivered
+SO-500523,2025-06-17 00:00:00,SKU-1019,Strapping Band PP,Sulawesi,WH-JKT,238,74.14,50.93,Delivered
+SO-500123,2025-05-28 00:00:00,SKU-1029,Standing Desk Converter,Central Java,WH-MKS,42,268.34,178.08,Delivered
+SO-500207,2025-01-21 00:00:00,SKU-1011,Corrugated Box Large,Kalimantan,WH-SBY,229,92.93,68.03,Returned
+SO-500397,2025-12-01 00:00:00,SKU-1005,Polyethylene Pellets,West Java,,212,282.47 ,182.84,Delivered
+SO-500342,2025-08-30 00:00:00,SKU-1035,Gear Set Helical,BALI & NUSA TENGGARA,WH-MKS,116,389.75,231.74,Delivered
+SO-500304,2025-07-08 00:00:00,SKU-1001,Aluminum Sheet 3mm,Kalimantan,WH-SMG,61,187.89,148.24,Returned
+SO-500240,2025-10-06 00:00:00,SKU-1033,Lithium  Battery  Cell  18650,Bali & Nusa Tenggara,WH-MKS,264,426.33,242.3,Delivered
+SO-500477,2025-07-08 00:00:00,SKU-1044,Hydraulic Oil ISO 46,Sumatra,WH-MDN,-172,170.97,110.39,Delivered
+SO-500582,2025-10-08 00:00:00,SKU-1004,Copper Wire Roll,East Java,WH-JKT,252,Rp 39.25,26.9,Delivered
+SO-500587,2025-01-28 00:00:00,SKU-1009,Timber Plank Oak,West Java,WH-SMG,223,244.78,182.69,Delivered
+SO-500408,2025-01-16 00:00:00,SKU1020,Cordless Drill 18V,Bali & Nusa Tenggara,WH-SMG,235,372.99,245.59,DELIVERED
+SO-500443,2025-12-23 00:00:00,SKU1046,Machine Coolant 5L,East Java,WH-MDN,39,39.5,30.18,Delivered
+SO-500197,2025-02-08 00:00:00,SKU-1041,Safety Gloves Nitrile,Bali  &  Nusa  Tenggara,WH-SBY,257,89.25,67.51,Delivered
+SO-500242,2025-01-09 00:00:00,SKU-1016,Poly Mailer Bag,Bali & Nusa Tenggara,WH-SMG,39,223.93,170.55,delivered
+SO-500586,2025-01-26 00:00:00,SKU-1006,Stainless Steel Rod,Sulawesi,WH-MDN,286,63.49,49.28,Delivered
+SO-500049,2025-03-03 00:00:00,SKU-1038,Rubber Gasket Set,Bali & Nusa Tenggara,WH-MKS,26,28.95,21.41,Delivered
+SO-500064,2025-06-06 00:00:00,SKU-1017,Foam Insert Sheet,Central Java,,-66,99.51,74.43,Delivered
+SO-500028,2025-05-27 00:00:00,SKU-1004,Copper Wire Roll,East Java,WH-SBY,176,39.25,26.9,Delivered
+SO-500209,2025-07-18 00:00:00,SKU-1018,Label Roll Thermal,BALI & NUSA TENGGARA,WH-MDN,-178,291.85,190.85,Deliverd
+SO-500154,2025-05-09 00:00:00,SKU-1034,Motor Bracket Assembly,WEST JAVA,WH-SBY,18,377.86,,Delivered
+SO-500004,2025-02-05 00:00:00,SKU-1017,Foam Insert Sheet,East Java,WH-SMG,265,99.51,74.43,Deliverd
+SO-500134,2025-09-29 00:00:00,SKU-1023,Stainless Steel Bottle 1L,East Java,WH-MKS,89,243.11,177.91,Delivered
+SO-500350,2025-04-22 00:00:00,SKU1047,Conveyor Belt Roller,West Java,WH-MKS,28,Rp 83.28,52.09,Delivered
+SO-500570,"July 02, 2025",SKU-1039,Timing Belt 120T,Kalimantan,WH-SBY,-94,54.43,31.29,Delivered
+SO-500117,2025-11-21 00:00:00,SKU-1006,Stainless Steel Rod,Sumatra,WH-JKT,90,63.49,49.28,DELIVERED
+SO-500286,,SKU-1022,LED Desk Lamp,Bali & Nusa Tenggara,WH-SBY,,409.19,309.85,Delivered
+SO-500007,2025-08-12 00:00:00,SKU-1020,Cordless Drill 18V,Sulawesi,WH-MKS,64,372.99,245.59,Delivered
+SO-500083,2025-03-18 00:00:00,SKU-1041,Safety Gloves Nitrile,Bali & Nusa Tenggara,WH-SMG,77,89.25,67.51,Delivered
+SO-500021,2025-03-17 00:00:00,SKU-1015,Carton Tape 48mm,Bali & Nusa Tenggara,WH-JKT,Rp 59,218.82 ,149.71,Delivered
+SO-500079,2025-03-22 00:00:00,SKU-1004,Copper Wire Roll,Sumatra,WH-JKT,235,39.25,26.9,Delivered
+SO-500256,2025-02-08 00:00:00,SKU-1003,Cotton Yarn,East Java,WH-MDN,267,254.26,190.06,DELIVERED
+SO-500367,"November 26, 2025",SKU-1022,LED Desk Lamp,Bali & Nusa Tenggara,WH-MDN,273,409.19,309.85,Delivered
+SO-500598,2025-11-14 00:00:00,SKU-1043,Cutting Tool Insert,West Java,WH-SBY,234,49.63,34.42,Delivered
+SO-500254,2025-08-07 00:00:00,SKU-1038,Rubber Gasket Set,Kalimantan,WH-SBY,232,28.95,21.41,Delivered
+SO-500352,2025-01-17 00:00:00,SKU-1030,Ball Bearing 6205,Sumatra,WH-SMG,Rp 97,145.89,101.55,Delivered
+SO-500545,2025-07-10,SKU-1025,Ceiling Fan 56in,Sulawesi,WH-JKT,137,141.94,110.44,Delivered
+SO-500626,2025-01-05 00:00:00,SKU-1038,Rubber Gasket Set,East Java,WH-SBY,161,28.95,21.41,Delivered
+SO-500036,2025-07-27 00:00:00,SKU-1043,Cutting Tool Insert,Bali & Nusa Tenggara,WH-SBY,244,$49.63,34.42,Delivered
+SO-500319,2025-12-02 00:00:00,SKU-1028,Wireless Mouse,Kalimantan,WH-SMG,250,331.23,196.98,Delivered
+SO-500596,2025-09-01 00:00:00,SKU-1015,Carton Tape 48mm,West Java,WH-SMG,207,218.82,149.71,Delivered
+SO-500211,2025-07-17 00:00:00,SKU-1043,Cutting Tool Insert,East Java,WH-SMG,81,49.63,34.42,Delivered
+SO-500095,2025-09-21 00:00:00,SKU-1025,Ceiling Fan 56in,Kalimantan,WH-JKT,282,141.94,110.44,Delivered
+SO-500541,2025-05-08 00:00:00,SKU-1045,Welding Rod E6013,Sumatra,WH-SMG,267,260.41,167.46,Delivered
+SO-500113,2025-06-23 00:00:00,SKU-1016,Poly Mailer Bag,Kalimantan,,208,223.93,170.55,Delivered
+SO-500065,2025-03-03 00:00:00,SKU-1020,Cordless Drill 18V,Bali & Nusa Tenggara,WH-MKS,99,372.99,245.59,Delivered
+SO-500191,2025-11-13 00:00:00,Sku-1010,Corrugated Box Medium,Bali & Nusa Tenggara,WH-MDN,190,294.1,171.63,Delivered
+SO-500386,2025-10-07 00:00:00,SKU-1046,Machine Coolant 5L,Central Java,WH-MDN,282,39.5,30.18,Returned
+SO-500149,2025-08-21 00:00:00,SKU-1007,Rubber Compound,Kalimantan,WH-JKT,113,316.36,216.82,DELIVERED
+SO-500452,2025-07-20 00:00:00,SKU-1039,Timing Belt 120T,West Java,WH-MKS,183,54.43,31.29,Delivered
+SO-500377,2025-10-10 00:00:00,sku-1015,Carton Tape 48mm,Bali & Nusa Tenggara,WH-SMG,149,218.82,149.71,Delivered
+SO-500020,10.22.2025,SKU-1040,Industrial Lubricant 20L,Kalimantan,WH-SBY,201,257.33,,Delivered
+SO-500590,2025-07-23 00:00:00,SKU-1019,Strapping Band PP,Sumatra,WH-MDN,140,74.14,50.93,Delivered
+SO-500118,2025-01-24 00:00:00,SKU-1001,Aluminum Sheet 3mm,Bali & Nusa Tenggara,WH-SMG,33,$187.89,148.24,Delivered
+SO-500157,2025-08-18 00:00:00,SKU-1030,Ball Bearing 6205,Sulawesi,WH-SMG,60 ,145.89,101.55,Delivered
+SO-500633,2025-01-30 00:00:00,SKU-1015,Carton Tape 48mm,Sumatra,WH-MKS,168,218.82,,Delivered
+SO-500066,2025-09-05 00:00:00,SKU-1047,Conveyor Belt Roller,Kalimantan,WH-SMG,273,83.28,52.09,Delivered
+SO-500537,2025-08-19 00:00:00,SKU-1010,Corrugated Box Medium,East Java,WH-MDN,213,294.1,171.63,Delivered
+SO-500017,2025-09-21 00:00:00,SKU-1018,Label Roll Thermal,East Java,WH-MKS,52,291.85,190.85,Delivered
+SO-500228,2025-08-12,SKU-1009,Timber Plank Oak,Central Java,WH-JKT,$235,244.78,182.69,Delivered
+SO-500181,2025-11-07 00:00:00,SKU-1031,Hydraulic Pump Seal,Sumatra,WH-MDN,144,49.09,36.34,Delivered
+SO-500213,06-Dec-25,SKU-1044,Hydraulic Oil ISO 46,Central Java,WH-MDN,48,170.97,110.39,Delivered
+SO-500218,2025-02-21 00:00:00,SKU-1018,Label Roll Thermal,Bali & Nusa Tenggara,WH-MKS,-281,291.85,190.85,Delivered
+SO-500354,2025-07-12 00:00:00,SKU-1024,Bluetooth Speaker Mini,Kalimantan,WH-JKT,281,273.05,168.61,Delivered
+SO-500293,2025-01-26 00:00:00,SKU-1003,Cotton Yarn,SUMATRA,,245,254.26,190.06,delivered
+SO-500501,2025-07-18 00:00:00,SKU-1008,Silicone Sealant Bulk,Sumatra,WH-MKS,192,145.32,89.78,Delivered
+SO-500410,2025-07-14 00:00:00,SKU-1042,Air Filter Cartridge,Bali & Nusa Tenggara,WH-JKT,156,207.59,115.38,Delivered
+SO-500245,26/08/2025,SKU-1043,Cutting Tool Insert,Kalimantan,WH-MDN,98,49.63,34.42,delivered
+SO-500251,2025-12-21 00:00:00,SKU-1031,Hydraulic Pump Seal,East Java,WH-MDN,270,49.09,36.34,Delivered
+SO-500101,2025-11-28 00:00:00,SKU-1007,Rubber Compound,Sumatra,WH-SBY,154,316.36,216.82,Delivered
+SO-500295,2025-07-26 00:00:00,SKU-1048,Spare Fuse 10A,West Java,WH-SMG,210,271.48,159.12,Delivered
+SO-500145,2025-02-20 00:00:00,SKU-1041,Safety Gloves Nitrile,Sulawesi,WH-MDN,213,Rp 89.25,67.51,Delivered
+SO-500210,2025-11-20 00:00:00,SKU-1003,Cotton Yarn,West Java,WH-SMG,173,254.26,190.06,Delivered
+SO-500026,09.01.2025,SKU-1010,Corrugated Box Medium,East Java,WH-MDN,131,294.1,171.63,Delivered
+SO-500552,12/03/2025,SKU-1024,Bluetooth Speaker Mini,Central Java,WH-MDN,274,273.05,168.61,Delivered
+SO-500139,2025-07-10 00:00:00,SKU-1040,Industrial Lubricant 20L,Kalimantan,WH-JKT,124,257.33,164.86,Delivered
+SO-500558,05.17.2025,SKU-1015,Carton Tape 48mm,Bali & Nusa Tenggara,WH-MKS,,218.82,149.71,Delivered
+SO-500192,2025-05-05 00:00:00,SKU-1006,Stainless Steel Rod,Sulawesi,WH-MDN,210,63.49,49.28,Delivered
+SO-500357,2025-12-11 00:00:00,SKU-1029,Standing Desk Converter,Sumatra,WH-MKS,277,268.34,178.08,Delivered
+SO-500180,2025-01-26 00:00:00,SKU-1039,Timing Belt 120T,East Java,WH-JKT,231,54.43,31.29,Delivered
+SO-500022,2025-04-01 00:00:00,SKU-1014,Bubble Wrap Roll,Sumatra,WH-MKS,30,166.56,128.12,Delivered
+SO-500650,2025-07-11 00:00:00,SKU-1012,Shrink Wrap Film,East Java,WH-JKT,276,174.97,99.81,Delivered
+SO-500259,2025-11-06 00:00:00,SKU-1002,PVC Resin,Kalimantan,WH-SBY,235,81.83,50.91,Cancelled
+SO-500012,2025-06-01 00:00:00,SKU-1044,Hydraulic Oil ISO 46,Central Java,WH-MKS,103,170.97,,Delivered
+SO-500214,2025-11-26 00:00:00,SKU-1024,Bluetooth Speaker Mini,Bali & Nusa Tenggara,WH-SMG,70,273.05,168.61,Delivered
+SO-500303,2025-09-18 00:00:00,SKU-1032,Circuit Board Rev C,Sumatra,WH-MKS,293,348.1,202.29,Delivered
+SO-500380,2025-04-15 00:00:00,SKU-1020,Cordless Drill 18V,East Java,WH-SMG,216,372.99,245.59,Delivered
+SO-500478,2025-02-17 00:00:00,SKU-1049,Cleaning Solvent Industrial,Kalimantan,WH-MDN,188,62.18,41.65,Delivered
+SO-500411,2025-02-07 00:00:00,SKU-1045,Welding Rod E6013,east java,WH-JKT,83,260.41,167.46,Delivered
+SO-500255,2025-06-30 00:00:00,SKU-1002,PVC Resin,Sumatra,WH-MKS,145,81.83,,Delivered
+SO-500192,2025-05-05 00:00:00,SKU-1006,Stainless Steel Rod,Sulawesi,WH-MDN,210,63.49,49.28,Delivered
+SO-500076,2025-06-02 00:00:00, SKU-1028,Wireless Mouse,Sumatra,WH-MKS,161,331.23,196.98,Delivered
+SO-500531,2025-09-24 00:00:00,SKU-1014,Bubble Wrap Roll,Kalimantan,WH-MDN,195,166.56,128.12,Delivered
+SO-500005,2025-06-19 00:00:00,SKU-1034,Motor Bracket Assembly,West Java,WH-JKT,138,377.86,216.37,Delivered
+SO-500237,2025-11-20 00:00:00, SKU-1001,Aluminum Sheet 3mm,Sulawesi,WH-MKS,128,187.89,148.24,Delivered
+SO-500308,2025-05-05 00:00:00,SKU-1043,Cutting Tool Insert,Sulawesi,,-61,49.63,34.42,Delivered
+SO-500088,2025-12-12 00:00:00,SKU-1014,BUBBLE WRAP ROLL,Sulawesi,WH-MKS,15,166.56,128.12,returned
+SO-500270,2025-02-03 00:00:00,SKU-1005,Polyethylene Pellets,Sumatra,WH-SMG,250,282.47,182.84,Delivered
+SO-500284,2025-08-14 00:00:00,SKU-1010,Corrugated Box Medium,Sumatra,WH-MDN,242,294.1,171.63,Delivered
+SO-500069,2025-10-11 00:00:00,SKU-1003,Cotton Yarn,Kalimantan,WH-SMG,69,254.26,190.06,Delivered
+SO-500035,2025-08-12 00:00:00,SKU-1017,Foam Insert Sheet,West Java,WH-MDN,204,99.51,74.43,Delivered
+SO-500364,2025-06-14 00:00:00,SKU-1043,Cutting Tool Insert,East Java,WH-SBY,-78,49.63,34.42,Returned
+SO-500222,2025-05-26 00:00:00,SKU-1039,Timing Belt 120T,Central Java,WH-MDN,278,54.43,31.29,Delivered
+SO-500144,2025-12-23 00:00:00,SKU-1047,Conveyor Belt Roller,Sumatra,WH-MKS,84,83.28,52.09,Delivered
+SO-500084,2025-06-07 00:00:00,SKU-1010,Corrugated Box Medium,Kalimantan,WH-MKS,296,294.1,171.63,Delivered
+SO-500374,2025-01-21 00:00:00,SKU-1038,Rubber Gasket Set,Central Java,WH-JKT,291,28.95,21.41,Delivered
+SO-500307,2025-09-26 00:00:00,SKU-1010,Corrugated Box Medium,Bali & Nusa Tenggara,WH-MKS,199,294.1,171.63,Delivered
+SO-500275,2025-12-30 00:00:00,SKU-1020,Cordless Drill 18V,East Java,WH-SBY,270,372.99,245.59,Delivered
+SO-500158,2025-11-11 00:00:00,SKU-1014,Bubble Wrap Roll,Kalimantan,,271,166.56,128.12,Deliverd
+SO-500015,2025-11-07 00:00:00,SKU-1037,LED Driver 12V,Sumatra,WH-SMG,231,24.69,15.71,Delivered
+SO-500032,2025-10-27 00:00:00,SKU-1024,Bluetooth Speaker Mini,BALI & NUSA TENGGARA,WH-JKT,299,273.05,168.61,Deliverd
+SO-500067,2025-04-10 00:00:00,Sku-1006,Stainless Steel Rod,Central Java,WH-SMG,Rp 189,63.49,49.28,Delivered
+SO-500444,2025-02-28 00:00:00,SKU-1045,Welding Rod E6013,Bali & Nusa Tenggara,WH-JKT,180,260.41,167.46,Delivered
+SO-500586,2025-01-26 00:00:00,SKU-1006,Stainless Steel Rod,Sulawesi,WH-MDN,286,63.49,49.28,Delivered
+SO-500274,2025-03-05 00:00:00,SKU-1003,Cotton Yarn,Central Java,WH-MKS,160,254.26,190.06,Delivered
+SO-500224,25-May-25,SKU-1029,Standing Desk Converter,Sulawesi,WH-MDN,275,268.34,178.08,delivered
+SO-500186,2025-08-09 00:00:00,SKU-1031,Hydraulic Pump Seal,Central Java,WH-SBY,199,49.09,36.34,Delivered
+SO-500608,2025-11-13 00:00:00,SKU-1009,Timber Plank Oak,Kalimantan,WH-MKS,210 ,244.78,182.69,Delivered
+SO-500243,2025-12-03 00:00:00,SKU-1046,Machine Coolant 5L,Bali & Nusa Tenggara,WH-JKT,175,39.5,30.18,Delivered
+SO-500436,2025-11-28 00:00:00,SKU-1043,Cutting Tool Insert,Bali & Nusa Tenggara,WH-MDN,174,49.63,34.42,Cancelled
+SO-500194,2025-09-19 00:00:00,SKU-1004,Copper Wire Roll,Sulawesi,WH-JKT,266,39.25,26.9,Delivered
+SO-500509,2025-11-08 00:00:00,SKU-1039,TIMING BELT 120T,  East Java  ,WH-JKT,94,54.43,31.29,Delivered
+SO-500189,2025-10-22 00:00:00,SKU-1020,Cordless Drill 18V,Sulawesi,WH-MDN,212,372.99,245.59,Delivered
+SO-500345,2025-04-14 00:00:00,SKU-1032,Circuit Board Rev C,Sulawesi,WH-MKS,,348.1,202.29,Delivered
+SO-500100,2025-02-17 00:00:00,SKU-1026,Electric Kettle 1.7L,Bali & Nusa Tenggara,WH-SBY,63,67.61,42.33,DELIVERED
+SO-500257,2025-03-23 00:00:00,SKU-1043,Cutting Tool Insert,Central Java,WH-JKT,229,49.63,34.42,Delivered
+SO-500335,2025-02-18 00:00:00,SKU-1042,Air Filter Cartridge,Central Java,WH-SBY,249,207.59,115.38,Delivered
+SO-500310,2025-09-14 00:00:00,SKU-1026,Electric Kettle 1.7L,Sumatra,WH-MKS,36,67.61,42.33,Delivered
+SO-500250,2025-07-24 00:00:00,SKU-1027,Air Purifier HEPA,sumatra,WH-MDN,178,298.8,212.95,Returned
+SO-500400,2025-09-28 00:00:00,SKU-1006,Stainless Steel Rod,Central Java,WH-JKT,-113,Rp 63.49,49.28,Delivered
+SO-500506,2025-02-10 00:00:00,SKU-1019,Strapping Band PP,Central Java,,84,74.14,50.93,Delivered
+SO-500235,2025-06-04 00:00:00,SKU-1015,Carton Tape 48mm,West Java,WH-JKT,127,218.82,149.71,Deliverd
+SO-500230,2025-02-11 00:00:00,SKU-1024,Bluetooth Speaker Mini,Central Java,WH-SMG,19,273.05,,Delivered
+SO-500344,2025-02-09 00:00:00,SKU-1023,Stainless Steel Bottle 1L,WEST JAVA,WH-MKS,36,243.11,177.91,Delivered
+SO-500371,2025-10-13 00:00:00,SKU-1026,Electric Kettle 1.7L,Central Java,WH-MKS,203,67.61,42.33,Delivered
+SO-500431,2025-03-20 00:00:00,SKU-1042,Air Filter Cartridge,Bali & Nusa Tenggara,WH-MDN,198,207.59,115.38,Delivered
+SO-500151,2025-10-17 00:00:00,SKU-1008,Silicone Sealant Bulk,West Java,WH-SBY,288,145.32,89.78,Delivered
+SO-500051,2025-08-04 00:00:00,SKU-1000,Steel Coil 2mm,West Java,WH-MDN,226,10.82,7.72,Cancelled
+SO-500033,2025-06-30 00:00:00,SKU-1000,Steel Coil 2mm,Bali & Nusa Tenggara,WH-SMG,204,10.82,7.72,Delivered
+SO-500338,2025-07-04 00:00:00,SKU-1041,Safety Gloves Nitrile,West Java,WH-SBY,65,89.25,67.51,delivered
+SO-500463,2025-03-28 00:00:00,SKU-1018,Label Roll Thermal,Sulawesi,WH-MDN,258,291.85,190.85,DELIVERED
+SO-500616,2025-09-26 00:00:00,SKU-1049,Cleaning Solvent Industrial,West Java,WH-MKS,93,62.18,41.65,Delivered
+SO-500121,2025-11-14 00:00:00,SKU-1024,Bluetooth Speaker Mini,Sumatra,WH-SBY,78,273.05,168.61,Delivered
+SO-500211,2025-07-17 00:00:00,SKU-1043,Cutting Tool Insert,East Java,WH-SMG,81,49.63,34.42,Delivered
+SO-500232,2025-08-30 00:00:00,SKU-1018,Label Roll Thermal,Bali & Nusa Tenggara,WH-SBY,245,291.85,,Delivered
+SO-500011,2025-09-17 00:00:00,SKU-1019,Strapping Band PP,Kalimantan,WH-SMG,214,74.14,50.93,Delivered
+SO-500475,2025-11-20 00:00:00,SKU-1036,Pressure Valve 1/2in,Kalimantan,WH-SMG,217,56.49,39.97,Delivered
+SO-500106,2025-12-04 00:00:00,SKU-1037,LED Driver 12V,Bali & Nusa Tenggara,WH-MDN,81,24.69,15.71,Delivered
+SO-500525,2025-08-26 00:00:00,SKU-1015,Carton Tape 48mm,Sulawesi,WH-SMG,257,218.82,149.71,Returned
+SO-500381,2025-03-16 00:00:00,SKU-1014,Bubble Wrap Roll,East Java,WH-JKT,288,166.56,128.12,Delivered
+SO-500511,2025-09-22 00:00:00,SKU-1033,Lithium Battery Cell 18650,CENTRAL JAVA,WH-SMG,195,426.33,242.3,Delivered
+SO-500480,2025-05-26 00:00:00,SKU-1020,Cordless Drill 18V,Sulawesi,WH-SMG,300,372.99,245.59,Delivered
+SO-500050,2025-12-05 00:00:00, SKU-1027,Air Purifier HEPA,West Java,WH-SMG,264,298.8,212.95,Delivered
+SO-500233,2025-02-10 00:00:00,SKU-1000,Steel Coil 2mm,East Java,WH-JKT,115,10.82,7.72,Delivered 
+SO-500223,2025-04-10 00:00:00,SKU-1030,Ball Bearing 6205,Kalimantan,WH-SMG,297,145.89,101.55,Returned
+SO-500155,2025-05-02 00:00:00,SKU-1022,LED Desk Lamp,East Java,WH-MKS,$13,Rp 409.19,309.85,Delivered
+SO-500468,2025-04-18 00:00:00,SKU-1015,Carton Tape 48mm,Kalimantan,,184,218.82,,Delivered
+SO-500514,2025-11-18 00:00:00,SKU-1036,Pressure Valve 1/2in,Sumatra,WH-JKT,238,56.49,39.97,Delivered
+SO-500266,2025-02-03 00:00:00,SKU-1045,Welding Rod E6013,SULAWESI,WH-MKS,153,260.41,167.46,Delivered
+SO-500370,2025-03-15 00:00:00,SKU-1045,Welding Rod E6013,West Java,WH-MDN,292,260.41,167.46,Delivered
+SO-500029,,SKU-1034,Motor Bracket Assembly,Central Java,WH-SBY,123,377.86,216.37,Delivered
+SO-500390,2025-01-31 00:00:00,SKU-1023,Stainless Steel Bottle 1L,Kalimantan,WH-MKS,252,243.11,,Delivered
+SO-500387,2025-09-26 00:00:00,SKU-1003,Cotton Yarn,Bali & Nusa Tenggara,WH-JKT,43,254.26,190.06,Cancelled
+SO-500358,2025-05-07 00:00:00,SKU-1014,Bubble Wrap Roll,East Java,WH-MDN,84,166.56,128.12,Delivered
+SO-500628,2025-05-10 00:00:00,SKU-1029,Standing Desk Converter,Sumatra,WH-SBY,159,268.34,178.08,Delivered
+SO-500317,2025-07-14 00:00:00,SKU-1034,Motor Bracket Assembly,Bali & Nusa Tenggara,WH-MDN,181,377.86 ,216.37,Cancelled
+SO-500382,2025-08-02 00:00:00,SKU-1037,LED Driver 12V,Central Java,WH-SMG,105,24.69,15.71,Delivered
+SO-500538,2025-04-17 00:00:00,SKU-1022,LED Desk Lamp,East Java,WH-MDN,242,409.19,309.85,Delivered
+SO-500555,2025-01-14 00:00:00,SKU-1011,Corrugated Box Large,  Sulawesi  ,WH-SMG,117,92.93,68.03,Delivered
+SO-500322,2025-04-26 00:00:00,SKU-1033,Lithium Battery Cell 18650,West Java,WH-SBY,56,426.33,242.3,DELIVERED
+SO-500385,2025-09-09 00:00:00,SKU-1041,Safety Gloves Nitrile,Central Java,WH-MDN,185,89.25,67.51,Delivered
+SO-500219,2025-01-20 00:00:00,SKU-1033,Lithium Battery Cell 18650,Bali & Nusa Tenggara,WH-SMG,72,426.33,242.3,Delivered
+SO-500330,2025-05-26 00:00:00,SKU-1021,Office Chair Ergonomic,Kalimantan,WH-MDN,283,64.64,37.3,Delivered
+SO-500421,2025-05-09 00:00:00,SKU-1023,Stainless Steel Bottle 1L,Kalimantan,WH-SBY,258,Rp 243.11,177.91,Delivered
+SO-500606,2025-06-26 00:00:00,SKU-1034,Motor Bracket Assembly,East Java,,201,377.86,216.37,Delivered
+SO-500460,2025-10-15 00:00:00,SKU-1024,Bluetooth Speaker Mini,Kalimantan,WH-MKS,258,273.05,168.61,Delivered
+SO-500389,2025-02-04 00:00:00,SKU-1014,Bubble Wrap Roll,West Java,WH-SBY,116,166.56,128.12,Delivered
+SO-500624,2025-11-30 00:00:00,SKU-1017,Foam Insert Sheet,Sulawesi,WH-MDN,15,99.51,74.43,Delivered
+SO-500299,2025-03-15 00:00:00,SKU-1023,Stainless Steel Bottle 1L,Sulawesi,WH-SBY,265,243.11,177.91,Delivered
+SO-500099,2025-05-03 00:00:00,SKU-1038,Rubber Gasket Set,East Java,WH-SBY,287,28.95,21.41,Delivered
+SO-500504,2025-12-31 00:00:00,SKU-1040,Industrial Lubricant 20L,Bali & Nusa Tenggara,WH-MKS,217,257.33 ,164.86,Delivered 
+SO-500365,2025-04-24 00:00:00,SKU-1033,  Lithium Battery Cell 18650  ,East Java,WH-MDN,145,426.33,242.3,Delivered
+SO-500055,2025-05-23 00:00:00,SKU-1005,Polyethylene Pellets,Central Java,WH-MDN,242,Rp 282.47,182.84,Delivered
+SO-500419,2025-06-04 00:00:00,SKU-1017,Foam Insert Sheet,Sumatra,WH-SMG,79,99.51,74.43,Delivered
+SO-500563,2025-04-30 00:00:00,SKU-1003,Cotton Yarn,Central Java,WH-MKS,15,254.26,190.06,Delivered
+SO-500093,2025-12-06 00:00:00,SKU-1018,Label Roll Thermal,Bali & Nusa Tenggara,WH-MDN,-286,291.85 ,190.85,Delivered
+SO-500517,2025-01-02 00:00:00,sku-1032,Circuit Board Rev C,Bali & Nusa Tenggara,WH-JKT,11,348.1,202.29,Delivered
+SO-500204,2025-01-22 00:00:00,SKU-1047,Conveyor Belt Roller,Bali & Nusa Tenggara,WH-MDN,-297,83.28,52.09,Delivered
+SO-500570,"July 02, 2025",SKU-1039,Timing Belt 120T,Kalimantan,WH-SBY,-94,54.43,31.29,Delivered
+SO-500521,2025-09-15 00:00:00,SKU-1007,Rubber Compound,Central Java,WH-JKT,119,316.36,216.82,Delivered
+SO-500236,2025-08-23 00:00:00,SKU-1039,Timing Belt 120T,West Java,WH-JKT,260,54.43,31.29,Delivered
+SO-500613,2025-04-07 00:00:00,SKU-1005,Polyethylene Pellets,Central Java,WH-MDN,213,Rp 282.47,182.84,Delivered
+SO-500184,2025-11-03 00:00:00,SKU-1025,Ceiling Fan 56in,West Java,WH-JKT,109,141.94,110.44,Delivered
+SO-500052,2025-08-24 00:00:00,SKU-1040,Industrial Lubricant 20L,Sumatra,WH-SBY,95,257.33,164.86,Delivered
+SO-500080,2025-05-30 00:00:00,SKU-1030,Ball Bearing 6205,Central Java,WH-JKT,152,145.89,101.55,Delivered
+SO-500522,2025-07-25 00:00:00,SKU1002,PVC Resin,Sumatra,,149,81.83,50.91,Delivered
+SO-500289,2025-08-03 00:00:00,SKU-1039,Timing Belt 120T,Bali & Nusa Tenggara,WH-SBY,86,54.43,31.29,Delivered
+SO-500132,2025-03-09 00:00:00,SKU-1023,Stainless Steel Bottle 1L,East Java,WH-JKT,,243.11,177.91,Deliverd
+SO-500208,25/09/2025,SKU-1033,lithium battery cell 18650,Central Java,WH-MKS,191,426.33,242.3,Delivered
+SO-500554,2025-06-26 00:00:00,SKU-1031,Hydraulic Pump Seal,sulawesi,WH-MKS,169,49.09,36.34,Delivered
+SO-500568,2025-03-11 00:00:00,SKU-1020,Cordless Drill 18V,Kalimantan,WH-SBY,228,372.99,245.59,Delivered 
+SO-500282,2025-10-07 00:00:00,SKU-1040,Industrial Lubricant 20L,Kalimantan,WH-SMG,159,257.33,,Deliverd
+SO-500442,2025-09-24 00:00:00,SKU-1013,Pallet Wood Standard,East Java,WH-MDN,248,224.95,135.44,Delivered
+SO-500111,19-Jun-25,SKU-1037,LED Driver 12V,Bali & Nusa Tenggara,WH-JKT,230,24.69,15.71,Delivered
+SO-500516,2025-02-22 00:00:00,SKU-1049,Cleaning Solvent Industrial,Kalimantan,WH-MKS,64,62.18,41.65,Delivered
+SO-500440,2025-09-05 00:00:00,SKU-1001,Aluminum Sheet 3mm,East Java,,217,187.89,148.24,Delivered
+SO-500503,"January 21, 2025",SKU-1013,Pallet Wood Standard,Bali & Nusa Tenggara,WH-JKT,208,224.95,135.44,Delivered
+SO-500279,2025-11-06 00:00:00,SKU-1046,Machine Coolant 5L,Bali & Nusa Tenggara,WH-SMG,293,39.5,30.18,Delivered
+SO-500313,2025-12-15 00:00:00,SKU-1043,Cutting Tool Insert,Sulawesi,WH-SMG,252,49.63,34.42,Delivered
+SO-500414,2025-04-06 00:00:00,SKU-1005,Polyethylene Pellets,  Sumatra  ,WH-MDN,290,282.47,182.84,Delivered
+SO-500415,2025-02-22 00:00:00,sku-1026,Electric Kettle 1.7L,West Java,WH-JKT,186,67.61,42.33,Delivered
+SO-500221,2025-07-30 00:00:00,SKU1002,PVC Resin,Kalimantan,WH-SMG,126,81.83,50.91,cancelled
+SO-500539,2025-02-16 00:00:00,SKU-1007,Rubber Compound,Bali & Nusa Tenggara,WH-SBY,160,316.36,216.82,Delivered
+SO-500156,2025-03-06 00:00:00,SKU-1003,Cotton Yarn,Sulawesi,,63,254.26,190.06,Delivered
+SO-500162,2025-11-02 00:00:00, SKU-1024,Bluetooth Speaker Mini,East Java,WH-MKS,237,273.05,168.61,Delivered
+SO-500512,2025-05-18 00:00:00,SKU-1049,Cleaning Solvent Industrial,  Bali & Nusa Tenggara  ,WH-JKT,20,62.18,41.65,Delivered
+SO-500496,2025-02-13 00:00:00,SKU-1041,Safety Gloves Nitrile,Sulawesi,WH-SBY,150,89.25,67.51,delivered
+SO-500494,2025-02-21 00:00:00,SKU-1005,Polyethylene Pellets,Bali & Nusa Tenggara,,68,282.47,182.84,Delivered
+SO-500340,2025-06-01 00:00:00,SKU-1040,Industrial Lubricant 20L,Sulawesi,WH-SMG,118,257.33,164.86,delivered
+SO-500287,2025-06-13 00:00:00,SKU-1006,Stainless Steel Rod,Sumatra,WH-SBY,67,63.49,49.28,Delivered
+SO-500016,2025-09-19 00:00:00,SKU-1013,Pallet Wood Standard,Bali & Nusa Tenggara,,91,224.95,,Delivered
+SO-500215,2025-12-17 00:00:00,SKU-1047,Conveyor Belt Roller,west java,WH-MKS,-221,83.28,52.09,Delivered
+SO-500107,2025-06-26 00:00:00,SKU-1030,BALL BEARING 6205,Sulawesi,WH-SMG,283,145.89,101.55,Delivered
+SO-500498,2025-07-20 00:00:00,SKU-1012,Shrink Wrap Film,Kalimantan,WH-SMG,32,174.97,99.81,Delivered
+SO-500499,2025-09-11 00:00:00,SKU-1015,Carton Tape 48mm,West Java,WH-MDN,128,218.82,149.71,Delivered
+SO-500572,2025-10-21 00:00:00,SKU-1044,Hydraulic Oil ISO 46,Bali & Nusa Tenggara,WH-MDN,295,170.97,110.39,Delivered 
+SO-500314,2025-05-23 00:00:00,SKU-1015,Carton Tape 48mm,East Java,WH-MKS,120,218.82,149.71,Cancelled
+SO-500637,2025-07-03 00:00:00,SKU-1042,Air Filter Cartridge,east java,WH-MKS,92,207.59,115.38,Delivered
+SO-500418,2025-10-20 00:00:00,SKU-1015,Carton Tape 48mm,Central Java,,199,218.82,149.71,Delivered
+SO-500432,2025-09-03 00:00:00,SKU-1038,Rubber Gasket Set,Sumatra,WH-MKS,,28.95,21.41,Delivered
+SO-500510,2025-03-12 00:00:00,SKU-1045,Welding Rod E6013,Central Java,WH-JKT,259,260.41,167.46,Cancelled
+SO-500619,2025-07-23 00:00:00,SKU-1032,Circuit Board Rev C,Kalimantan,WH-JKT,20,348.1,202.29,Delivered
+SO-500450,2025-04-06 00:00:00,SKU-1034,Motor Bracket Assembly,East Java,WH-SMG,105,377.86,216.37,Delivered
+SO-500434,2025-11-01 00:00:00, SKU-1034,Motor Bracket Assembly,West Java,WH-JKT,132,377.86,216.37,Deliverd
+SO-500485,2025-12-07 00:00:00,SKU-1023,Stainless Steel Bottle 1L,West Java,WH-SBY,207,243.11,177.91,Delivered
+SO-500645,2025-08-23 00:00:00,SKU-1036,Pressure Valve 1/2in,EAST JAVA,WH-SBY,97,56.49,39.97,Delivered
+SO-500567,,SKU-1023,Stainless Steel Bottle 1L,Sulawesi,WH-MDN,56,243.11,177.91,Delivered
+SO-500607,2025-11-08 00:00:00,SKU-1036,Pressure Valve 1/2in,West Java,WH-MDN,93,56.49,39.97,Delivered
+SO-500023,2025-08-22 00:00:00,SKU-1007,Rubber Compound,Bali & Nusa Tenggara,WH-SBY,242,316.36,216.82,Delivered
+SO-500640,2025-07-01 00:00:00,SKU-1014,Bubble Wrap Roll,Kalimantan,WH-SBY,162,166.56,128.12,Delivered
+SO-500172,2025-06-29 00:00:00,SKU-1006,Stainless Steel Rod,East Java,WH-MKS,63,63.49,49.28,Delivered
+SO-500533,2025-02-08 00:00:00,sku-1025,Ceiling Fan 56in,Sulawesi,WH-MKS,36,141.94,110.44,Delivered
+SO-500476,11.21.2025,SKU-1004,Copper Wire Roll,Sumatra,WH-JKT,268,39.25,,Delivered
+SO-500395,2025-07-01 00:00:00,SKU-1016,Poly Mailer Bag,Bali & Nusa Tenggara,WH-SMG,208,223.93,170.55,Delivered
+SO-500150,2025-01-11 00:00:00,SKU-1038,Rubber Gasket Set,Bali & Nusa Tenggara,WH-JKT,175,28.95,,Delivered
+SO-500087,2025-08-10 00:00:00,SKU-1002,PVC Resin,Sulawesi,WH-SMG,133,81.83,50.91,Delivered
+SO-500588,2025-11-17 00:00:00,SKU-1042,Air Filter Cartridge,Sumatra,WH-MKS,107,207.59,115.38,DELIVERED
+SO-500258,2025-05-01 00:00:00,SKU-1004,Copper Wire Roll,East Java,WH-SMG,,39.25,26.9,Cancelled
+SO-500273,2025-10-10 00:00:00,SKU-1049,Cleaning Solvent Industrial,Central Java,WH-MKS,71,$62.18,41.65,Delivered
+SO-500612,2025-08-15 00:00:00,SKU-1047,Conveyor Belt Roller,East Java,WH-SMG,218,83.28,52.09,Delivered
+SO-500234,2025-11-08 00:00:00,SKU1035,Gear Set Helical,Sumatra,WH-MKS,61,$389.75,231.74,Delivered
+SO-500547,2025-06-19 00:00:00,SKU-1005,Polyethylene Pellets,West Java,WH-JKT,241,Rp 282.47,182.84,Delivered
+SO-500048,2025-11-18 00:00:00,SKU-1044,Hydraulic Oil ISO 46,West Java,WH-SBY,159,Rp 170.97,110.39,Delivered
+SO-500124,2025-10-28 00:00:00,SKU-1022,LED Desk Lamp,Kalimantan,WH-SMG,222,409.19,309.85,Delivered
+SO-500417,2025-07-18 00:00:00,SKU-1026,ELECTRIC KETTLE 1.7L,Kalimantan,WH-JKT,291,67.61,42.33,Delivered
+SO-500347,2025-02-16 00:00:00, SKU-1031,Hydraulic Pump Seal,Sumatra,WH-MKS,33,49.09,36.34,Delivered
+SO-500630,2025-07-11 00:00:00,SKU-1042,Air Filter Cartridge,Kalimantan,WH-MKS,149,207.59,115.38,Delivered
+SO-500548,2025-08-10 00:00:00,SKU-1036,Pressure Valve 1/2in,Sumatra,WH-MDN,20,56.49,39.97,Delivered
+SO-500373,2025-04-08 00:00:00,sku-1046,Machine Coolant 5L,East Java,WH-JKT,198,39.5,30.18,Delivered
+SO-500649,2025-08-08 00:00:00,SKU-1025,Ceiling Fan 56in,Sumatra,WH-MDN,7 ,141.94,110.44,Delivered
+SO-500577,2025-01-01 00:00:00,SKU-1006,Stainless Steel Rod,Sumatra,WH-JKT,229,63.49,49.28,Delivered
+SO-500332,2025-03-25 00:00:00,SKU-1021,Office Chair Ergonomic,  Kalimantan  ,WH-MDN,-136,64.64,37.3,Delivered
+SO-500129,2025-04-28 00:00:00,SKU-1018,Label Roll Thermal,Bali & Nusa Tenggara,WH-MKS,185,291.85,190.85,Delivered
+SO-500622,2025-02-16 00:00:00,SKU-1044,HYDRAULIC OIL ISO 46,  West Java  ,WH-SMG,202,170.97,110.39,Delivered
+SO-500416,2025-11-03 00:00:00,SKU-1038,Rubber Gasket Set,Bali & Nusa Tenggara,WH-SMG,202,28.95,,Delivered
+SO-500316,2025-10-14 00:00:00,SKU-1022,LED Desk Lamp,East Java,WH-SMG,67,409.19,309.85,Delivered
+SO-500220,2025-03-25 00:00:00,SKU-1009,Timber Plank Oak,Bali & Nusa Tenggara,WH-SBY,89,Rp 244.78,182.69,Delivered
+SO-500513,2025-05-20 00:00:00,SKU-1027,Air Purifier HEPA,West Java,WH-MKS,139,298.8,212.95,Delivered
+SO-500433,2025-08-03 00:00:00,SKU-1044,Hydraulic Oil ISO 46,West Java,WH-MKS,Rp 189,170.97,110.39,Delivered
+SO-500458,2025-05-28 00:00:00,SKU-1031,Hydraulic Pump Seal,Central Java,WH-SBY,166,49.09,36.34,Delivered
+SO-500618,2025-12-27 00:00:00,SKU-1023,Stainless Steel Bottle 1L,East Java,WH-SBY,193,Rp 243.11,177.91,Delivered
+SO-500376,2025-03-02 00:00:00,SKU-1047,Conveyor Belt Roller,Central Java,WH-MDN,109,83.28,52.09,Delivered 
+SO-500042,2025-04-25 00:00:00,SKU-1022,LED Desk Lamp,Bali & Nusa Tenggara,WH-JKT,25,409.19,309.85,Delivered
+SO-500472,21-Sep-25,SKU-1017,Foam Insert Sheet,Central Java,WH-JKT,215,99.51,74.43,delivered
+SO-500193,2025-06-08 00:00:00,SKU-1025,Ceiling Fan 56in,Central Java,WH-SMG,175,141.94,110.44,Delivered
+SO-500426,2025-05-30 00:00:00,SKU-1020,Cordless Drill 18V,Sulawesi,WH-MDN,129,372.99,245.59,Delivered
+SO-500455,2025-04-04 00:00:00,SKU-1007,Rubber Compound,Kalimantan,WH-SMG,77,316.36,216.82,Delivered
+SO-500594,2025-10-05 00:00:00,SKU-1022,LED Desk Lamp,Bali  &  Nusa  Tenggara,WH-MDN,121,409.19,309.85,Deliverd
+SO-500489,2025-08-05 00:00:00,SKU-1007,Rubber Compound,Sumatra,WH-SBY,,316.36,216.82,Delivered
+SO-500518,2025-07-06 00:00:00,SKU-1030,Ball Bearing 6205,Central Java,WH-MDN,96,145.89,101.55,Delivered
+SO-500591,2025-07-18 00:00:00,SKU-1034,Motor Bracket Assembly,East Java,,200,377.86,216.37,Delivered
+SO-500056,2025-07-14 00:00:00,SKU-1042,Air Filter Cartridge,West Java,WH-SMG,258,207.59,,Delivered
+SO-500470,2025-01-31 00:00:00,SKU-1013,Pallet Wood Standard,East Java,WH-MKS,277,224.95,135.44,Delivered
+SO-500147,2025-07-05 00:00:00,SKU-1015,Carton Tape 48mm,Kalimantan,WH-JKT,193,218.82,149.71,Delivered
+SO-500269,2025-10-21 00:00:00,SKU-1035,Gear Set Helical,Sumatra,WH-SMG,287,389.75,231.74,Delivered
+SO-500238,2025-08-08 00:00:00,SKU-1018,Label Roll Thermal,Sulawesi,WH-JKT,185,291.85,190.85,Delivered
+SO-500387,2025-09-26 00:00:00,SKU-1003,Cotton Yarn,Bali & Nusa Tenggara,WH-JKT,43,254.26,190.06,Cancelled
+SO-500178,2025-03-22 00:00:00,SKU-1021,  Office Chair Ergonomic  ,East Java,WH-SMG,171,64.64,37.3,Delivered
+SO-500481,2025-06-25 00:00:00,SKU-1031,Hydraulic Pump Seal,West Java,WH-JKT,55,49.09,36.34,Delivered
+SO-500060,2025-05-04 00:00:00,SKU-1048,Spare Fuse 10A,Kalimantan,WH-MDN,256,271.48,159.12,Delivered
+SO-500141,2025-08-26 00:00:00,SKU1040,Industrial Lubricant 20L,Kalimantan,WH-SMG,214,257.33,164.86,Delivered
+SO-500248,2025-08-31 00:00:00,SKU1034,Motor Bracket Assembly,West Java,WH-SMG,-102,377.86,216.37,Delivered
+SO-500341,2025-09-02 00:00:00,SKU-1008,Silicone Sealant Bulk,Sumatra,WH-SBY,196,145.32,89.78,Delivered
+SO-500018,2025-05-01 00:00:00,SKU-1048,Spare  Fuse  10A,Central Java,WH-SMG,106,271.48,159.12,Delivered
+SO-500593,2025-10-16 00:00:00,SKU-1017,Foam Insert Sheet,Central Java,WH-JKT,54,99.51,74.43,Delivered
+SO-500407,2025-04-29 00:00:00,SKU-1027,Air Purifier HEPA,East Java,WH-JKT,208,298.8,,Cancelled
+SO-500109,2025-07-30 00:00:00,SKU-1049,Cleaning Solvent Industrial,East Java,WH-JKT,247,62.18,41.65,Delivered
+SO-500164,2025-08-09 00:00:00,SKU-1013,Pallet Wood Standard,Central Java,WH-MDN,216,224.95,135.44,Delivered
+SO-500013,2025-12-13 00:00:00,SKU-1024,Bluetooth Speaker Mini,Sulawesi,WH-SBY,296,273.05,168.61,Delivered
+SO-500620,2025-11-01 00:00:00,SKU-1031,Hydraulic Pump Seal,Central Java,WH-MDN,247,49.09,36.34,Delivered
+SO-500061,2025-02-17 00:00:00,SKU-1001,Aluminum Sheet 3mm,Central Java,WH-SMG,212,187.89,148.24,Delivered
+SO-500130,2025-11-14 00:00:00,SKU-1012,Shrink Wrap Film,Kalimantan,WH-SMG,75,174.97,99.81,Delivered
+SO-500292,2025-09-16 00:00:00,SKU-1025,Ceiling Fan 56in,Central Java,WH-MDN,,Rp 141.94,110.44,Delivered
+SO-500161,2025-02-03 00:00:00,SKU-1009,Timber Plank Oak,East Java,WH-SBY,285,244.78,182.69,Delivered
+SO-500041,2025-08-29 00:00:00,SKU-1005,Polyethylene Pellets,Kalimantan,WH-JKT,281,282.47,,Delivered
+SO-500182,2025-02-28,SKU-1032,Circuit Board Rev C,Sumatra,WH-SMG,61,348.10 ,202.29,Delivered
+SO-500044,2025-12-09 00:00:00,SKU-1030,Ball Bearing 6205,Sulawesi,WH-JKT,116,145.89,101.55,Delivered
+SO-500212,2025-12-06 00:00:00,SKU-1037,LED Driver 12V,East Java,WH-SBY,163,24.69,15.71,Cancelled
+SO-500104,"February 05, 2025",SKU-1008,Silicone Sealant Bulk,Bali & Nusa Tenggara,WH-SMG,217,145.32,89.78,Delivered
+SO-500082,2025-10-29 00:00:00,SKU-1040,Industrial Lubricant 20L,Sumatra,WH-SBY,63,257.33 ,,Delivered
+SO-500493,2025-04-20 00:00:00,sku-1046,Machine Coolant 5L,Sumatra,WH-SBY,231,39.5,30.18,Delivered
+SO-500581,2025-02-07 00:00:00,SKU-1006,Stainless Steel Rod,Central Java,WH-SMG,197,63.49,49.28,Delivered
+SO-500046,2025-06-09 00:00:00,SKU-1010,corrugated box medium,Sulawesi,WH-JKT,18,294.1,171.63,Delivered
+SO-500487,,SKU-1000,Steel Coil 2mm,West Java,WH-MDN,72,10.82,7.72,Delivered
+SO-500138,2025-03-05 00:00:00,SKU-1034,Motor Bracket Assembly,East Java,WH-MDN,139,377.86,216.37,Delivered
+SO-500315,28-May-25,SKU-1019,Strapping Band PP,Kalimantan,,255,74.14,50.93,Delivered
+SO-500438,2025-09-23 00:00:00,SKU-1047,Conveyor Belt Roller,Sulawesi,WH-MKS,299,83.28,52.09,Delivered
+SO-500520,2025-06-13 00:00:00,SKU-1046,Machine Coolant 5L,Bali & Nusa Tenggara,,44,39.5,30.18,Delivered
+SO-500484,2025-03-23 00:00:00,SKU-1019,Strapping Band PP,West Java,WH-SMG,189,74.14,50.93,Delivered
+SO-500160,2025-09-09 00:00:00,SKU-1006,Stainless Steel Rod,West Java,WH-MDN,46,63.49,49.28,Delivered
+SO-500030,2025-12-28 00:00:00,SKU-1009,Timber Plank Oak,West Java,WH-SBY,217,244.78,182.69,Delivered
+SO-500205,2025-11-06 00:00:00,SKU1020,Cordless Drill 18V,Sulawesi,WH-MDN,82,372.99,245.59,Cancelled
+SO-500469,2025-11-20 00:00:00,SKU-1039,  Timing Belt 120T  ,Central Java,WH-MDN,76,54.43,31.29,Delivered
+SO-500306,2025-10-24 00:00:00,SKU-1041,Safety Gloves Nitrile,Central Java,WH-MKS,31,89.25,67.51,Delivered
+SO-500565,2025-06-15 00:00:00,SKU-1011,Corrugated Box Large,West Java,WH-JKT,80,92.93,68.03,DELIVERED
+SO-500268,2025-04-13 00:00:00,SKU-1007,Rubber Compound,Central Java,WH-SBY,,316.36,216.82,Delivered
+SO-500631,2025-09-04 00:00:00,SKU-1006,Stainless Steel Rod,East Java,WH-JKT,146,63.49,49.28,Delivered
+SO-500648,2025-02-15,SKU-1048,Spare Fuse 10A,Sulawesi,WH-SBY,227,271.48,159.12,Delivered
+SO-500584,2025-06-19 00:00:00, SKU-1006,Stainless Steel Rod,Central Java,WH-SBY,214,63.49,49.28,DELIVERED
+SO-500148,2025-07-03 00:00:00, SKU-1041,Safety Gloves Nitrile,Sumatra,WH-JKT,146,89.25,67.51,DELIVERED
+SO-500059,2025-02-13 00:00:00,SKU-1012,Shrink Wrap Film,Kalimantan,WH-SBY,213,174.97,99.81,Delivered
+SO-500610,2025-01-11 00:00:00,SKU-1023,Stainless Steel Bottle 1L,Bali & Nusa Tenggara,WH-SMG,160,243.11,177.91,Delivered
+SO-500420,2025-05-22 00:00:00,SKU-1027,Air Purifier HEPA,East Java,WH-MDN,252,298.8,212.95,Delivered
+SO-500361,2025-11-03 00:00:00,SKU-1028,Wireless Mouse,Central Java,WH-JKT,27,331.23,196.98,Delivered
+SO-500105,2025-05-17 00:00:00,SKU-1032,CIRCUIT BOARD REV C,East Java,WH-JKT,157,348.1,202.29,Delivered 
+SO-500638,2025-04-03 00:00:00,SKU-1035,Gear Set Helical,West Java,WH-SMG,246,389.75,231.74,Delivered
+SO-500604,2025-08-01 00:00:00,SKU-1007,Rubber Compound,Central Java,WH-SBY,295,$316.36,216.82,Delivered
+SO-500435,2025-03-27 00:00:00,SKU-1022,LED Desk Lamp,West Java,WH-MKS,293,409.19,309.85,Returned
+SO-500549,2025-03-30 00:00:00,SKU-1027,Air Purifier HEPA,Central  Java,WH-SMG,100,298.8,212.95,Delivered
+SO-500647,2025-04-18 00:00:00,SKU-1017,Foam Insert Sheet,Sulawesi,WH-SBY,86,99.51,74.43,Delivered
+SO-500349,2025-06-07 00:00:00,SKU-1043,Cutting Tool Insert,Sumatra,WH-JKT,135,49.63,34.42,Delivered
+SO-500348,2025-08-01 00:00:00,SKU-1032,Circuit Board Rev C,Sulawesi,WH-MDN,34,348.1,202.29,Delivered
+SO-500092,2025-02-23 00:00:00,SKU-1042,Air Filter Cartridge,East Java,WH-SBY,215,207.59,115.38,Delivered
+SO-500128,2025-01-26 00:00:00,SKU-1043,Cutting Tool Insert,Kalimantan,,259,49.63,34.42,Delivered
+SO-500043,2025-04-13 00:00:00,SKU-1015,Carton Tape 48mm,Sulawesi,WH-JKT,83,218.82,149.71,Delivered
+SO-500474,"June 14, 2025",SKU-1045,Welding Rod E6013,Bali & Nusa Tenggara,WH-SBY,206,260.41,167.46,Delivered
+SO-500321,2025-10-28 00:00:00,SKU-1039,Timing Belt 120T,Central Java,WH-SBY,30,54.43,31.29,Delivered
+SO-500216,2025-07-05 00:00:00,SKU-1001,Aluminum Sheet 3mm,Central Java,WH-SMG,114,187.89,148.24,Delivered
+SO-500078,2025-12-05 00:00:00,SKU-1016,poly mailer bag,Central Java,WH-JKT,127,223.93 ,170.55,Delivered
+SO-500337,2025-06-18 00:00:00,SKU-1017,Foam Insert Sheet,Sulawesi,WH-SMG,298,99.51,74.43,Delivered
+SO-500241,2025-08-29 00:00:00,SKU-1024,bluetooth speaker mini,Kalimantan,WH-JKT,203,273.05,168.61,Returned
+SO-500039,2025-07-14 00:00:00,SKU-1016,Poly Mailer Bag,Central Java,WH-SMG,237,223.93,170.55,Delivered
+SO-500127,, SKU-1018,Label Roll Thermal,East Java,WH-MDN,9,291.85,190.85,Delivered
+SO-500152,2025-04-30 00:00:00,SKU1013,Pallet Wood Standard,Bali & Nusa Tenggara,WH-SMG,80,$224.95,135.44,Delivered
+SO-500288,2025-03-14 00:00:00,SKU-1015,Carton Tape 48mm,West Java,WH-JKT,153,218.82,149.71,Cancelled
+SO-500362,2025-10-04 00:00:00,SKU-1014,Bubble Wrap Roll,Bali & Nusa Tenggara,WH-SBY,33,166.56,128.12,Delivered
+SO-500103,2025-07-16 00:00:00,SKU-1009,Timber Plank Oak,Sulawesi,WH-SBY,265,244.78,182.69,Delivered
+SO-500177,2025-02-16 00:00:00,SKU-1001,Aluminum Sheet 3mm,Central Java,WH-MKS,197,187.89,148.24,Delivered
+SO-500298,2025-07-21 00:00:00,SKU-1006,Stainless Steel Rod,Bali  &  Nusa  Tenggara,WH-SMG,178,63.49,49.28,Delivered
+SO-500413,2025-06-07 00:00:00,SKU-1000,steel coil 2mm,East Java,WH-MDN,,10.82,7.72,Delivered
+SO-500437,2025-02-24 00:00:00,SKU-1027,AIR PURIFIER HEPA,West Java,WH-JKT,137,$298.80,,Delivered
+SO-500318,2025-05-29 00:00:00,SKU-1009,Timber Plank Oak,East Java,,45,244.78,182.69,Delivered
+SO-500102,2025-08-01 00:00:00,SKU-1017,Foam Insert Sheet,Sumatra,WH-MDN,129,99.51,74.43,Delivered
+SO-500642,2025-08-29 00:00:00,SKU-1007,Rubber Compound,Bali & Nusa Tenggara,,41,316.36,216.82,Delivered
+SO-500320,2025-05-19 00:00:00,SKU-1034,Motor Bracket Assembly,Kalimantan,WH-MKS,144,377.86,216.37,Delivered
+SO-500227,2025-02-12 00:00:00,SKU-1018,Label Roll Thermal,East Java,WH-SBY,235,291.85,190.85,delivered
+SO-500196,2025-05-12 00:00:00,SKU-1009,Timber Plank Oak,Central Java,WH-SBY,83,Rp 244.78,182.69,Delivered
+SO-500301,2025-08-22 00:00:00,SKU-1033,Lithium Battery Cell 18650,Sulawesi,WH-SBY,268,426.33,242.3,Delivered
+SO-500133,2025-04-13 00:00:00,SKU-1011,Corrugated Box Large,Bali & Nusa Tenggara,WH-SBY,281,92.93,68.03,Delivered
+SO-500447,2025-04-05 00:00:00,SKU-1040,Industrial Lubricant 20L,Kalimantan,WH-SBY,226,257.33,164.86,Delivered
+SO-500296,2025-04-10 00:00:00,SKU-1035,Gear Set Helical,Sulawesi,WH-SMG,152,389.75,231.74,Delivered
+SO-500526,2025-04-11 00:00:00,SKU-1049,Cleaning Solvent Industrial,Bali & Nusa Tenggara,WH-MKS,130,62.18,41.65,Delivered
+SO-500492,2025-01-05 00:00:00,SKU-1036,Pressure Valve 1/2in,Kalimantan,WH-MKS,89,56.49,39.97,Delivered
+SO-500601,2025-06-13 00:00:00,SKU-1016,Poly Mailer Bag,West Java,WH-JKT,203,223.93,170.55,Delivered
+SO-500380,2025-04-15 00:00:00,SKU-1020,Cordless Drill 18V,East Java,WH-SMG,216,372.99,245.59,Delivered
+SO-500556,2025-05-24 00:00:00,SKU-1049,Cleaning Solvent Industrial,Bali & Nusa Tenggara,WH-JKT,246,62.18,41.65,Delivered
+SO-500003,2025-04-25 00:00:00,SKU-1014,Bubble Wrap Roll,Kalimantan,,103,166.56,128.12,Delivered
+SO-500290,2025-06-10 00:00:00,SKU-1036,Pressure Valve 1/2in,Bali & Nusa Tenggara,WH-SBY,86,56.49,39.97,Delivered
+SO-500108,2025-04-07 00:00:00,SKU-1020,Cordless Drill 18V,Sulawesi,WH-SBY,201,372.99,245.59,Delivered
+SO-500353,2025-11-25 00:00:00,SKU-1049,Cleaning Solvent Industrial,East Java,WH-MDN,200,62.18,41.65,Delivered
+SO-500267,2025-12-31 00:00:00,SKU-1010,Corrugated Box Medium,Bali & Nusa Tenggara,WH-SBY,190,294.1,171.63,Delivered
+SO-500360,2025-05-04 00:00:00,SKU-1001,Aluminum Sheet 3mm,West Java,,56,187.89,148.24,Delivered
+SO-500423,2025-06-20 00:00:00,SKU-1025,Ceiling Fan 56in,Sumatra,WH-MKS,173,141.94,110.44,Delivered
+SO-500053,2025-05-19 00:00:00,SKU-1041,Safety Gloves Nitrile,Bali & Nusa Tenggara,WH-MKS,280,89.25,67.51,Delivered
+SO-500246,2025-08-23 00:00:00,SKU-1004,Copper Wire Roll,East Java,WH-JKT,-108,39.25,26.9,Delivered
+SO-500195,,SKU-1049,Cleaning Solvent Industrial,Kalimantan,WH-SMG,80,62.18,41.65,Delivered
+SO-500629,2025-07-23 00:00:00,SKU-1039,Timing Belt 120T,West Java,WH-MKS,8,54.43,31.29,Delivered
+SO-500334,2025-07-27 00:00:00,SKU-1040,Industrial Lubricant 20L,Sulawesi,WH-MDN,172,257.33,164.86,Delivered
+SO-500010,2025-06-19 00:00:00,SKU-1042,Air Filter Cartridge,East Java,WH-MKS,68,207.59,115.38,Delivered
+SO-500272,2025-02-07 00:00:00,SKU-1041,Safety Gloves Nitrile,Sumatra,WH-MDN,269,89.25,67.51,Delivered
+SO-500446,2025-10-14 00:00:00,SKU-1021,Office Chair Ergonomic,Sumatra,WH-MDN,123,64.64,37.3,Delivered
+SO-500038,2025-11-26 00:00:00,SKU-1005,Polyethylene Pellets,Central Java,WH-MDN,241,282.47,182.84,Delivered
+SO-500527,2025-01-13 00:00:00,SKU-1026,Electric Kettle 1.7L,Sulawesi,WH-SBY,182,67.61,42.33,Delivered
+SO-500632,2025-05-14 00:00:00,SKU-1017,Foam Insert Sheet,Central Java,WH-SMG,81,99.51,74.43,Delivered
+SO-500122,2025-05-11 00:00:00,SKU-1040,Industrial Lubricant 20L,East Java,WH-MDN,9,257.33,164.86,Delivered
+SO-500605,2025-02-21 00:00:00,SKU-1048,Spare Fuse 10A,Sulawesi,WH-JKT,56,271.48,159.12,Delivered
+SO-500137,2025-07-07 00:00:00,SKU-1035,Gear Set Helical,Bali & Nusa Tenggara,WH-JKT,-207,389.75,231.74,Delivered
+SO-500331,2025-09-16 00:00:00,SKU-1008,Silicone Sealant Bulk,East Java,WH-MDN,103,145.32,89.78,Delivered
+SO-500231,2025-11-29 00:00:00,SKU-1006,Stainless Steel Rod,Bali & Nusa Tenggara,WH-SMG,79,63.49,,Delivered
+SO-500073,2025-10-23 00:00:00,SKU-1004,Copper Wire Roll,Central Java,WH-JKT,81,39.25,26.9,Delivered
+SO-500285,2025-03-15 00:00:00,SKU-1038,Rubber Gasket Set,Bali & Nusa Tenggara,WH-SMG,168,28.95,21.41,Delivered
+SO-500422,2025-08-23,SKU-1012,Shrink Wrap Film,Central Java,WH-JKT,160,174.97,,Deliverd
+SO-500497,2025-01-14 00:00:00,SKU-1044,Hydraulic Oil ISO 46,Central Java,WH-SMG,,170.97,110.39,Delivered
+SO-500534,2025-05-02 00:00:00,SKU-1008,Silicone Sealant Bulk,East Java,WH-SMG,166,145.32,89.78,Delivered
+SO-500297,2025-08-19 00:00:00, SKU-1032,Circuit Board Rev C,East Java,WH-MKS,65,348.1,202.29,Delivered
+SO-500391,"January 04, 2025",SKU-1001,Aluminum Sheet 3mm,Sulawesi,WH-MKS,215,187.89,148.24,Delivered
+SO-500094,2025-06-11 00:00:00,SKU-1005,Polyethylene Pellets,East Java,WH-SMG,64,282.47,182.84,Cancelled
+SO-500523,2025-06-17 00:00:00,SKU-1019,Strapping Band PP,Sulawesi,WH-JKT,238,74.14,50.93,Delivered
+SO-500311,2025-04-17 00:00:00,SKU-1033,Lithium Battery Cell 18650,East Java,WH-MKS,249,426.33,242.3,Delivered
+SO-500429,13/08/2025,SKU-1013,Pallet Wood Standard,Bali & Nusa Tenggara,WH-SMG,40,224.95,135.44,Delivered
+SO-500097,2025-01-27 00:00:00,SKU-1048,Spare Fuse 10A,East Java,WH-SBY,286,$271.48,159.12,Delivered
+SO-500409,2025-10-11 00:00:00,SKU-1022,LED Desk Lamp,Sumatra,WH-MDN,100,409.19,309.85,Delivered
+SO-500302,2025-06-13 00:00:00,SKU-1039,Timing  Belt  120T,Sumatra,WH-SBY,158,54.43,31.29,Delivered
+SO-500599,2025-04-19 00:00:00,SKU-1010,Corrugated Box Medium,Central Java,WH-SBY,26,294.1,171.63,Delivered
+SO-500453,2025-11-13 00:00:00,SKU-1029,Standing Desk Converter,Bali & Nusa Tenggara,WH-SBY,,268.34,178.08,Delivered
+SO-500072,2025-09-02 00:00:00,SKU-1016,Poly Mailer Bag,Bali  &  Nusa  Tenggara,WH-JKT,38,223.93,170.55,Delivered
+SO-500001,2025-05-08 00:00:00,SKU-1047,Conveyor Belt Roller,Central Java,WH-SMG,60,83.28,,Delivered 
+SO-500571,2025-12-19 00:00:00,SKU-1046,Machine Coolant 5L,Central Java,WH-SMG,95,39.5,30.18,Deliverd
+SO-500461,2025-08-01 00:00:00,SKU-1031,Hydraulic Pump Seal,Sumatra,,90,Rp 49.09,36.34,Delivered
+SO-500508,2025-01-30 00:00:00,SKU-1015,Carton Tape 48mm,West Java,WH-SBY,227,$218.82,149.71,Delivered
+SO-500174,,SKU-1039,Timing Belt 120T,West Java,WH-MKS,141,54.43,31.29,Delivered
+SO-500561,2025-10-18 00:00:00,SKU-1022,LED Desk Lamp,Central Java,WH-MKS,293,409.19,309.85,Cancelled
+SO-500603,,SKU-1000,Steel Coil 2mm,Sulawesi,WH-MKS,272,10.82,7.72,Delivered
+SO-500204,2025-01-22 00:00:00,SKU-1047,Conveyor Belt Roller,Bali & Nusa Tenggara,WH-MDN,-297,83.28,52.09,Delivered
+SO-500462,2025-04-23 00:00:00, SKU-1001,Aluminum Sheet 3mm,West Java,,145,187.89,148.24,Delivered
+SO-500085,2025-03-05 00:00:00, SKU-1028,Wireless Mouse,Kalimantan,WH-MDN,160,331.23,196.98,Delivered
+SO-500369,2025-08-31 00:00:00,SKU-1034,Motor Bracket Assembly,Bali & Nusa Tenggara,WH-SBY,-120,377.86,216.37,DELIVERED
+SO-500393,2025-12-12 00:00:00,SKU-1044,Hydraulic Oil ISO 46,Bali & Nusa Tenggara,WH-MDN,96,170.97,110.39,Delivered
+SO-500329,2025-06-02 00:00:00,SKU-1000,Steel Coil 2mm,Sulawesi,WH-MKS,59,10.82,7.72,Delivered
+SO-500576,2025-04-18 00:00:00,SKU-1016,Poly Mailer Bag,Kalimantan,WH-SBY,39,223.93,170.55,Delivered
+SO-500159,2025-01-16 00:00:00,SKU-1041,Safety Gloves Nitrile,Sumatra,,210,89.25,67.51,Delivered
+SO-500090,2025-08-15 00:00:00,SKU-1041,Safety Gloves Nitrile,Central Java,WH-SMG,228,89.25,67.51,Delivered
+SO-500175,2025-12-26 00:00:00,SKU-1017,Foam Insert Sheet,East Java,,184,99.51,74.43,Delivered
+SO-500606,2025-06-26 00:00:00,SKU-1034,Motor Bracket Assembly,East Java,,201,377.86,216.37,Delivered
+SO-500424,2025-11-30 00:00:00,SKU-1027,Air Purifier HEPA,Central Java,WH-MKS,-158,298.8,212.95,Delivered
+SO-500074,2025-02-13 00:00:00,SKU-1019,Strapping Band PP,West Java,WH-SBY,290,74.14,50.93,Delivered 
+SO-500176,2025-10-17 00:00:00,SKU-1009,Timber Plank Oak,West Java,WH-MDN,77,244.78,182.69,Delivered
+SO-500063,2025-08-06 00:00:00,SKU-1022,LED Desk Lamp,East Java,WH-MKS,185,409.19,309.85,Delivered
+SO-500145,2025-02-20 00:00:00,SKU-1041,Safety Gloves Nitrile,Sulawesi,WH-MDN,213,Rp 89.25,67.51,Delivered
+SO-500575,2025-03-27 00:00:00,SKU-1020,Cordless Drill 18V,Bali & Nusa Tenggara,WH-JKT,176,372.99,245.59,Delivered
+SO-500300,2025-01-24 00:00:00,SKU1002,PVC Resin,Central Java,WH-JKT,175,81.83,50.91,Delivered
+SO-500609,2025-12-20 00:00:00,SKU-1021,Office Chair Ergonomic,W. Java,WH-SBY,-248,64.64 ,37.3,Delivered
+SO-500641,2025-07-10 00:00:00,SKU-1021,Office Chair Ergonomic,Sulawesi,WH-SMG,155,64.64,37.3,Delivered
+SO-500505,2025-02-12 00:00:00,SKU-1025,Ceiling Fan 56in,Sulawesi,,$83,141.94,110.44,Delivered
+SO-500388,2025-01-25 00:00:00,SKU-1042,Air Filter Cartridge,Sumatra,,75,207.59,115.38,Delivered
+SO-500448,11-Nov-25,SKU-1047,Conveyor Belt Roller,Sumatra,WH-SBY,224,83.28,52.09,Delivered
+SO-500559,2025-10-22 00:00:00,SKU-1014,Bubble Wrap Roll,East Java,WH-MDN,93,166.56,128.12,Delivered
+SO-500116,2025-05-28 00:00:00,SKU-1043,Cutting Tool Insert,Kalimantan,WH-SBY,51,49.63,34.42,Delivered
+SO-500643,"September 14, 2025",SKU-1012,Shrink Wrap Film,Bali & Nusa Tenggara,WH-JKT,200,174.97,99.81,Delivered
+SO-500405,2025-07-19 00:00:00,SKU-1036,Pressure Valve 1/2in,East Java,,201,56.49,39.97,Delivered
+SO-500573,2025-06-12 00:00:00,SKU-1038,RUBBER GASKET SET,Central Java,WH-MKS,294,28.95,21.41,Delivered
+SO-500502,2025-08-30 00:00:00,SKU-1011,Corrugated Box Large,West Java,WH-JKT,39,92.93,68.03,Delivered
+SO-500244,2025-10-07 00:00:00,SKU-1022,led desk lamp,Bali & Nusa Tenggara,WH-SMG,94,409.19,309.85,Delivered
+SO-500445,2025-03-26 00:00:00,SKU-1043,Cutting Tool Insert,Sulawesi,WH-SBY,94,49.63,34.42,Delivered
+SO-500136,"March 14, 2025",SKU-1004,COPPER WIRE ROLL,Bali & Nusa Tenggara,WH-SBY,208,39.25,26.9,Cancelled
+SO-500163,2025-02-20 00:00:00,SKU-1027,AIR PURIFIER HEPA,Bali & Nusa Tenggara,WH-JKT,287,298.8,,Delivered
+SO-500009,2025-12-18 00:00:00,SKU-1034,Motor Bracket Assembly,East Java,WH-SBY,225,377.86,216.37,Delivered
+SO-500091,2025-02-16 00:00:00,SKU1031,Hydraulic Pump Seal,east java,WH-MDN,214,49.09,36.34,Delivered
+SO-500264,13-Apr-25,SKU-1031,Hydraulic Pump Seal,Central Java,WH-JKT,42,49.09,36.34,Delivered
+SO-500190,2025-05-29 00:00:00,SKU-1026,Electric Kettle 1.7L,Sumatra,WH-JKT,15,67.61,,Cancelled
+SO-500054,2025-08-12 00:00:00,SKU-1029,Standing Desk Converter,East Java,WH-MKS,170,268.34,178.08,Delivered
+SO-500047,2025-12-13 00:00:00,SKU-1036,Pressure Valve 1/2in,Sumatra,WH-MDN,106,56.49,39.97,Delivered
+SO-500592,2025-01-23 00:00:00,SKU-1028,Wireless Mouse,Sumatra,WH-SMG,243,331.23,196.98,Delivered
+SO-500131,2025-11-27 00:00:00,SKU-1040,Industrial Lubricant 20L,East Java,WH-JKT,230,257.33,164.86,Delivered
+SO-500625,2025-12-16 00:00:00,SKU-1049,Cleaning Solvent Industrial,Sumatra,WH-JKT,72,62.18,41.65,delivered
+SO-500247,2025-01-22 00:00:00,SKU-1012,Shrink Wrap Film,East Java,WH-SMG,268,174.97,99.81,Delivered
+SO-500384,2025-06-22 00:00:00,SKU-1043,Cutting Tool Insert,Bali & Nusa Tenggara,WH-SMG,255,49.63,34.42,Cancelled
+SO-500226,2025-07-10 00:00:00,SKU-1030,Ball Bearing 6205,West Java,WH-MKS,269,145.89,,Delivered
+SO-500115,2025-09-07 00:00:00,SKU-1048,Spare Fuse 10A,West Java,WH-MKS,40,271.48,159.12,Delivered
+SO-500546,2025-01-12 00:00:00,SKU-1004,Copper Wire Roll,Central Java,WH-JKT,232,39.25,26.9,Delivered
+SO-500396,2025-08-24 00:00:00,SKU-1025,Ceiling Fan 56in,Central Java,WH-MKS,120,141.94,110.44,Delivered
+SO-500165,2025-07-24 00:00:00,SKU-1029,Standing Desk Converter,Kalimantan,WH-MDN,53,268.34,178.08,Delivered
+SO-500375,2025-06-20 00:00:00,SKU-1013,Pallet Wood Standard,West Java,WH-SMG,113,224.95,135.44,Deliverd
+SO-500488,2025-12-15 00:00:00,SKU1033,Lithium Battery Cell 18650,West Java,WH-MDN,9,426.33,242.3,Delivered
+SO-500529,2025-06-07 00:00:00,SKU-1046,Machine Coolant 5L,Central Java,WH-JKT,276,39.5,30.18,Returned
+SO-500456,2025-11-02 00:00:00,SKU-1026,Electric Kettle 1.7L,Sulawesi,WH-SBY,,67.61,42.33,Delivered
+SO-500146,2025-01-17 00:00:00,SKU-1017,Foam Insert Sheet,Central Java,WH-SMG,232,99.51,74.43,Delivered
+SO-500333,2025-06-22 00:00:00,SKU-1000,Steel  Coil  2mm,Sulawesi,WH-SMG,103,10.82,7.72,Delivered
+SO-500430,2025-12-11 00:00:00,SKU-1026,Electric Kettle 1.7L,Central Java,WH-MDN,160,67.61,42.33,Delivered
+SO-500535,2025-12-25 00:00:00,SKU-1025,Ceiling Fan 56in,East Java,WH-SMG,236,141.94,110.44,Delivered
+SO-500524,2025-05-30 00:00:00,SKU-1012,Shrink Wrap Film,Bali & Nusa Tenggara,WH-MKS,160,174.97 ,99.81,Delivered
+SO-500551,2025-07-30 00:00:00,SKU-1031,Hydraulic Pump Seal,Sumatra,,36,49.09,36.34,Delivered
+SO-500617,2025-01-30 00:00:00,SKU-1012,Shrink Wrap Film,  West Java  ,WH-SBY,238,174.97,99.81,Delivered
+SO-500368,2025-07-29 00:00:00,SKU-1026,Electric Kettle 1.7L,East Java,WH-SBY,197,67.61,42.33,Delivered
+SO-500025,2025-09-16 00:00:00,SKU-1046,Machine Coolant 5L,Bali & Nusa Tenggara,WH-MDN,285,39.5,30.18,Delivered
+SO-500465,2025-10-05,SKU-1023,Stainless Steel Bottle 1L,Bali & Nusa Tenggara,WH-JKT,230,243.11,177.91,Delivered
+SO-500143,2025-03-11 00:00:00,SKU-1034,Motor Bracket Assembly,sumatra,WH-MDN,194,377.86,216.37,Delivered
+SO-500249,2025-01-25 00:00:00,SKU-1049,Cleaning Solvent Industrial,East Java,WH-SMG,68,Rp 62.18,41.65,Delivered
+SO-500199,2025-06-15 00:00:00,SKU-1039,Timing Belt 120T,CENTRAL JAVA,WH-SMG,230,54.43,31.29,Delivered
+SO-500171,2025-09-17 00:00:00,SKU-1036,Pressure Valve 1/2in,Central Java,WH-SBY,251,56.49,39.97,Delivered
+SO-500644,2025-01-28 00:00:00,SKU-1026,Electric Kettle 1.7L,Central Java,WH-SBY,107,67.61,42.33,Delivered
+SO-500398,2025-09-01 00:00:00,SKU-1035,GEAR SET HELICAL,Kalimantan,WH-JKT,9,389.75,231.74,Delivered
+SO-500068,2025-12-29 00:00:00,SKU-1000,Steel Coil 2mm,Central Java,WH-MKS,-145,10.82,7.72,Delivered
+SO-500383,2025-10-19 00:00:00,SKU-1024,Bluetooth Speaker Mini,Sumatra,WH-SBY,286,273.05,168.61,Delivered
+SO-500173,2025-04-26 00:00:00,SKU-1036,  Pressure Valve 1/2in  ,Bali & Nusa Tenggara,WH-MDN,292,56.49,39.97,returned
+SO-500486,2025-12-25 00:00:00,SKU-1046,Machine Coolant 5L,Sumatra,WH-SBY,51,39.5,30.18,Delivered
+SO-500583,2025-12-01 00:00:00,SKU-1027,Air Purifier HEPA,Sulawesi,WH-SBY,227,298.80 ,212.95,Delivered
+SO-500203,2025-07-16 00:00:00,SKU-1032,Circuit Board Rev C,Sulawesi,WH-MDN,288,Rp 348.10,202.29,Cancelled
+SO-500528,2025-01-05 00:00:00,SKU-1044,Hydraulic Oil ISO 46,West Java,WH-SMG,197,170.97,110.39,Delivered
+SO-500589,2025-03-29 00:00:00,SKU-1013,Pallet Wood Standard,West Java,WH-SMG,247,224.95,135.44,Delivered 
+SO-500454,2025-02-13 00:00:00,SKU-1037,LED Driver 12V,East Java,WH-SBY,65,24.69,15.71,Delivered
+SO-500252,2025-08-06 00:00:00,SKU-1005,Polyethylene Pellets,Sumatra,WH-JKT,97,282.47,182.84,Delivered
+SO-500507,2025-10-28 00:00:00,SKU-1025,Ceiling Fan 56in,East Java,WH-JKT,228,141.94,110.44,Delivered 
+SO-500002,2025-08-29 00:00:00,SKU-1002,PVC Resin,Central Java,WH-SBY,240,81.83,50.91,Delivered
+SO-500649,2025-08-08 00:00:00,SKU-1025,Ceiling Fan 56in,Sumatra,WH-MDN,7 ,141.94,110.44,Delivered
+SO-500355,2025-03-02 00:00:00,SKU-1022,LED Desk Lamp,Sulawesi,WH-SBY,206,409.19,309.85,Delivered
+SO-500339,2025-07-27 00:00:00,SKU-1010,Corrugated Box Medium,KALIMANTAN,WH-MKS,164,294.1,171.63,Delivered
+SO-500278,2025-10-31 00:00:00,SKU-1010,Corrugated Box Medium,Central Java,WH-MKS,92,294.1,171.63,Delivered
+SO-500491,2025-07-15 00:00:00,SKU-1008,Silicone Sealant Bulk,Kalimantan,WH-SBY,78,145.32,89.78,Delivered
+SO-500614,2025-09-22 00:00:00,SKU-1048,Spare Fuse 10A,Bali & Nusa Tenggara,WH-SMG,33,271.48,159.12,Delivered
+SO-500229,2025-08-01 00:00:00,SKU1001,Aluminum Sheet 3mm,Sumatra,WH-JKT,262,187.89,148.24,Delivered
+SO-500519,,SKU-1002,PVC Resin,Central Java,,169,81.83,50.91,Delivered
+SO-500530,2025-09-09 00:00:00,SKU-1026,Electric Kettle 1.7L,Central Java,WH-JKT,148,67.61,42.33,Delivered
+SO-500451,2025-12-10 00:00:00,SKU-1016,POLY MAILER BAG,Sulawesi,WH-MDN,165,223.93,170.55,Delivered
+SO-500544,2025-03-04 00:00:00,SKU-1008,Silicone Sealant Bulk,West Java,WH-JKT,118,145.32,89.78,Delivered
+SO-500125,2025-06-04 00:00:00,SKU-1029,Standing Desk Converter,Sumatra,WH-SBY,252,268.34,178.08,Delivered
+SO-500041,2025-08-29 00:00:00,SKU-1005,Polyethylene Pellets,Kalimantan,WH-JKT,281,282.47,,Delivered
+SO-500621,2025-06-26 00:00:00,SKU-1022,LED Desk Lamp,Bali & Nusa Tenggara,,137,409.19,309.85,Delivered
+SO-500351,2025-02-02 00:00:00,SKU-1044,Hydraulic Oil ISO 46,West Java,WH-MKS,40,170.97,110.39,Returned
+SO-500379,2025-08-27 00:00:00,SKU-1031,Hydraulic Pump Seal,Bali & Nusa Tenggara,WH-JKT,245,49.09,36.34,Delivered
+SO-500346,2025-08-15 00:00:00,SKU-1033,Lithium Battery Cell 18650,Kalimantan,WH-JKT,110,426.33,242.3,Delivered
+SO-500037,2025-10-01 00:00:00,SKU-1039,Timing Belt 120T,Sumatra,WH-JKT,293,54.43,31.29,Delivered
+SO-500403,2025-01-09 00:00:00,SKU-1020,Cordless Drill 18V,Sulawesi,WH-SBY,78,372.99,245.59,Delivered 
+SO-500515,2025-09-13 00:00:00,SKU-1003,Cotton Yarn,Central Java,WH-MKS,193,254.26,190.06,Delivered
+SO-500254,2025-08-07 00:00:00,SKU-1038,Rubber Gasket Set,Kalimantan,WH-SBY,232,28.95,21.41,Delivered
+SO-500140,2025-10-15 00:00:00,SKU-1039,Timing Belt 120T,Sulawesi,,118,54.43,31.29,Delivered
+SO-500457,2025-11-22 00:00:00,SKU-1031,Hydraulic Pump Seal,Kalimantan,WH-MKS,93,49.09,36.34,Delivered
+SO-500574,2025-03-14 00:00:00,SKU-1031,Hydraulic Pump Seal,Kalimantan,WH-SMG,44,49.09,36.34,Delivered
+SO-500045,2025-07-08 00:00:00,SKU-1016,Poly Mailer Bag,Sulawesi,WH-SBY,63,223.93,170.55,Delivered
+SO-500239,2025-04-06 00:00:00,SKU-1026,Electric Kettle 1.7L,Sulawesi,WH-JKT,189,67.61,42.33,Delivered
+SO-500482,2025-01-09 00:00:00,SKU-1029,Standing Desk Converter,Bali & Nusa Tenggara,WH-JKT,85,268.34,178.08,Delivered
+SO-500265,2025-08-16 00:00:00,SKU-1045,Welding Rod E6013,Bali & Nusa Tenggara,WH-JKT,168,260.41,167.46,Delivered
+SO-500466,2025-02-22 00:00:00,sku-1027,Air Purifier HEPA,East Java,WH-SBY,,298.8,212.95,Deliverd
+SO-500439,2025-07-20 00:00:00,SKU-1023,Stainless Steel Bottle 1L,Bali & Nusa Tenggara,WH-MDN,261,243.11,177.91,Delivered
+SO-500467,2025-02-14 00:00:00,SKU-1022,LED Desk Lamp,Bali & Nusa Tenggara,WH-MDN,65,409.19,309.85,Delivered
+SO-500201,2025-09-17 00:00:00,SKU-1022,LED Desk Lamp,East Java,WH-JKT,241,409.19,309.85,Delivered
+SO-500294,2025-02-25 00:00:00,SKU-1000,Steel Coil 2mm,Central Java,WH-MDN,140,10.82,7.72,Delivered
+SO-500281,2025-10-20 00:00:00,SKU-1013,Pallet Wood Standard,Sulawesi,WH-MDN,20,224.95,135.44,Delivered
+SO-500098,2025-08-13 00:00:00,SKU-1018,Label Roll Thermal,West Java,WH-MDN,19,291.85,190.85,Cancelled
+SO-500096,2025-04-07 00:00:00,SKU-1003,Cotton Yarn,East Java,WH-MKS,260,254.26,,Delivered
+SO-500536,2025-04-14 00:00:00,SKU-1004,Copper Wire Roll,Bali & Nusa Tenggara,WH-SBY,60,39.25,26.9,Delivered
+SO-500031,2025-08-27 00:00:00,SKU-1034,Motor Bracket Assembly,West Java,WH-MDN,-110,377.86,216.37,Delivered
+SO-500277,2025-06-05 00:00:00,SKU-1040,Industrial Lubricant 20L,Sulawesi,WH-MKS,52,257.33,164.86,Delivered
