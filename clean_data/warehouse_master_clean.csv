@@ -1,0 +1,6 @@
+Warehouse_ID,Warehouse_Name,City,Region,Storage_Capacity_Units
+WH-JKT,Jakarta Distribution Center,Jakarta,West Java Region,50000
+WH-SBY,Surabaya Regional Warehouse,Surabaya,East Java Region,35000
+WH-SMG,Semarang Central Warehouse,Semarang,Central Java Region,28000
+WH-MDN,Medan Distribution Hub,Medan,Sumatra Region,22000
+WH-MKS,Makassar Regional Warehouse,Makassar,Sulawesi Region,18000
