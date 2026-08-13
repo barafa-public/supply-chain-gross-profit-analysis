@@ -33,3 +33,33 @@ This analysis utilizes several tables:
 ### ERD (Entity Relationship Diagram)
 
 ![ERD](/ERD.png)
+
+## INSIGHT DEEP DIVE
+
+**CATEGORY 1**:
+Main Insight:
+This is a visualization result which represents the total of gross profit from every month. Based on this data, August contributed the highest gross profit, while June contributed the lowest
+
+![CATEGORY_1](/visualization_results/gross_profit_per_month.png)
+
+**CATEGORY 2**:
+Main Insight:
+This line chart shows that gross profit changes from January to April were only slightly different. However, the trend from June to August changed drastically, and this pattern continued into September, when gross profit dropped sharply from its peak in August.
+
+![CATEGORY_2](/visualization_results/gross_profit_history.png)
+
+**CATEGORY 3**:
+Main Insight:
+The gross profits from the top 5 products show that Cordless Drill 18V contributed the highest gross profit, while Bluetooth Speaker Mini contributed the lowest.
+
+![CATEGORY_3](/visualization_results/gross_profit_per_product.png)
+
+**CATEGORY 4**:
+Main Insight:
+East Java contributed the highest gross profit, and West Java contributed the lowest.
+
+![CATEGORY_4](/visualization_results/gross_profit_customer_region.png)
+
+## EXECUTIVE SUMMARY
+
+These visualization show that the peak of gross profit is in August and the lowest is in June. Cordless Drill 18V also contributed the highest gross profit, while Bluetooth Speaker Mini contributed the lowest. Then Eash Java contributed the highest gross profit.
